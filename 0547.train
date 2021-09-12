@@ -1,0 +1,1 @@
+{english=which}{slot=O} {english=airlines}{slot=O} {english=provide}{slot=O} {english=direct}{slot=B-connect} {english=flights}{slot=O} {english=between}{slot=O} {english=washington}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=denver}{slot=B-toloc.city_name}

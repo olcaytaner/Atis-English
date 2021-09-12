@@ -1,0 +1,1 @@
+{english=can}{slot=O} {english=you}{slot=O} {english=list}{slot=O} {english=all}{slot=O} {english=flights}{slot=O} {english=between}{slot=O} {english=milwaukee}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=chicago}{slot=B-toloc.city_name}

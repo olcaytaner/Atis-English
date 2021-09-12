@@ -1,0 +1,1 @@
+{english=i}{slot=O} {english=would}{slot=O} {english=like}{slot=O} {english=information}{slot=O} {english=on}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=city}{slot=B-city_name} {english=of}{slot=I-city_name} {english=boston}{slot=I-city_name} {english=between}{slot=O} {english=airport}{slot=O} {english=and}{slot=O} {english=downtown}{slot=O}

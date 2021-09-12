@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=far}{slot=O} {english=is}{slot=O} {english=oakland}{slot=B-fromloc.airport_name} {english=airport}{slot=I-fromloc.airport_name} {english=from}{slot=O} {english=downtown}{slot=O}

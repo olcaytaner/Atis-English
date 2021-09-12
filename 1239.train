@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=is}{slot=O} {english=available}{slot=O} {english=from}{slot=O} {english=the}{slot=O} {english=pittsburgh}{slot=B-fromloc.airport_name} {english=airport}{slot=I-fromloc.airport_name} {english=to}{slot=O} {english=the}{slot=O} {english=town}{slot=O}

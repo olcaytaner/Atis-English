@@ -1,0 +1,1 @@
+{english=from}{slot=O} {english=sfo}{slot=B-fromloc.airport_code} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name}

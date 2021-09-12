@@ -1,0 +1,1 @@
+{english=give}{slot=O} {english=me}{slot=O} {english=all}{slot=O} {english=the}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=new}{slot=B-fromloc.city_name} {english=york}{slot=I-fromloc.city_name} {english=to}{slot=O} {english=miami}{slot=B-toloc.city_name} {english=round}{slot=B-round_trip} {english=trip}{slot=I-round_trip}

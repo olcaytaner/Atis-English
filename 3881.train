@@ -1,0 +1,1 @@
+{english=i'd}{slot=O} {english=like}{slot=O} {english=to}{slot=O} {english=see}{slot=O} {english=all}{slot=O} {english=the}{slot=O} {english=flights}{slot=O} {english=with}{slot=O} {english=their}{slot=O} {english=fares}{slot=O} {english=from}{slot=O} {english=denver}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=atlanta}{slot=B-toloc.city_name}

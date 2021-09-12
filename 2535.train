@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=is}{slot=O} {english=the}{slot=O} {english=cheapest}{slot=B-cost_relative} {english=flight}{slot=O} {english=from}{slot=O} {english=pittsburgh}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=atlanta}{slot=B-toloc.city_name}

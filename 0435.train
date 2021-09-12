@@ -1,0 +1,1 @@
+{english=list}{slot=O} {english=the}{slot=O} {english=morning}{slot=B-depart_time.period_of_day} {english=flights}{slot=O} {english=at}{slot=O} {english=a}{slot=O} {english=124}{slot=B-fare_amount} {english=dollars}{slot=I-fare_amount} {english=from}{slot=O} {english=atlanta}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=boston}{slot=B-toloc.city_name}

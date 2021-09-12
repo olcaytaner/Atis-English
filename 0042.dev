@@ -1,0 +1,1 @@
+{english=what's}{slot=O} {english=the}{slot=O} {english=earliest}{slot=B-flight_mod} {english=flight}{slot=O} {english=from}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=bwi}{slot=B-toloc.airport_code} {english=that}{slot=O} {english=serves}{slot=O} {english=lunch}{slot=B-meal_description}

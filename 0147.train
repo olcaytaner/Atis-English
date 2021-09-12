@@ -1,0 +1,1 @@
+{english=sfo}{slot=B-fromloc.airport_code} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name} {english=on}{slot=O} {english=monday}{slot=B-depart_date.day_name} {english=november}{slot=B-depart_date.month_name} {english=eleventh}{slot=B-depart_date.day_number} {english=1991}{slot=B-depart_date.year}

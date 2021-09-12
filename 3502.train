@@ -1,0 +1,1 @@
+{english=where}{slot=O} {english=does}{slot=O} {english=continental}{slot=B-airline_name} {english=fly}{slot=O} {english=to}{slot=O} {english=from}{slot=O} {english=chicago}{slot=B-fromloc.city_name}

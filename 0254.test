@@ -1,0 +1,1 @@
+{english=all}{slot=O} {english=flights}{slot=O} {english=pittsburgh}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=baltimore}{slot=B-toloc.city_name} {english=on}{slot=O} {english=thursday}{slot=B-depart_date.day_name} {english=arrival}{slot=O} {english=by}{slot=B-arrive_time.time_relative} {english=10}{slot=B-arrive_time.time} {english=am}{slot=I-arrive_time.time}

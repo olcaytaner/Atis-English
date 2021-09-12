@@ -1,0 +1,1 @@
+{english=in}{slot=O} {english=pittsburgh}{slot=B-city_name} {english=i'd}{slot=O} {english=like}{slot=O} {english=to}{slot=O} {english=rent}{slot=O} {english=a}{slot=O} {english=car}{slot=B-transport_type}

@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=flights}{slot=O} {english=leave}{slot=O} {english=seattle}{slot=B-fromloc.city_name} {english=on}{slot=O} {english=sunday}{slot=B-depart_date.day_name} {english=on}{slot=O} {english=continental}{slot=B-airline_name} {english=after}{slot=B-depart_time.time_relative} {english=9}{slot=B-depart_time.time} {english=pm}{slot=I-depart_time.time}

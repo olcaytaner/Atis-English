@@ -1,0 +1,1 @@
+{english=to}{slot=O} {english=what}{slot=O} {english=cities}{slot=O} {english=from}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=does}{slot=O} {english=america}{slot=B-airline_name} {english=west}{slot=I-airline_name} {english=fly}{slot=O} {english=first}{slot=B-class_type} {english=class}{slot=I-class_type}

@@ -1,0 +1,1 @@
+{english=list}{slot=O} {english=distance}{slot=O} {english=from}{slot=O} {english=airports}{slot=O} {english=to}{slot=O} {english=downtown}{slot=O} {english=in}{slot=O} {english=new}{slot=B-city_name} {english=york}{slot=I-city_name}

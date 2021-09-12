@@ -1,0 +1,1 @@
+{english=show}{slot=O} {english=me}{slot=O} {english=the}{slot=O} {english=fare}{slot=O} {english=for}{slot=O} {english=us}{slot=B-airline_code} {english=flight}{slot=O} {english=3357}{slot=B-flight_number} {english=from}{slot=O} {english=philadelphia}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=baltimore}{slot=B-toloc.city_name}

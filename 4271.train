@@ -1,0 +1,1 @@
+{english=i}{slot=O} {english=need}{slot=O} {english=information}{slot=O} {english=on}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=indianapolis}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=seattle}{slot=B-toloc.city_name}

@@ -1,0 +1,1 @@
+{english=can}{slot=O} {english=you}{slot=O} {english=show}{slot=O} {english=me}{slot=O} {english=flights}{slot=O} {english=that}{slot=O} {english=are}{slot=O} {english=economy}{slot=B-economy} {english=class}{slot=I-economy} {english=from}{slot=O} {english=baltimore}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=dallas}{slot=B-toloc.city_name}

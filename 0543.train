@@ -1,0 +1,1 @@
+{english=show}{slot=O} {english=flights}{slot=O} {english=and}{slot=O} {english=fare}{slot=O} {english=information}{slot=O} {english=from}{slot=O} {english=pittsburgh}{slot=B-fromloc.city_name} {english=connecting}{slot=B-connect} {english=through}{slot=O} {english=denver}{slot=B-stoploc.city_name} {english=to}{slot=O} {english=oakland}{slot=B-toloc.city_name}

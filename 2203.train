@@ -1,0 +1,1 @@
+{english=what's}{slot=O} {english=the}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=from}{slot=O} {english=oakland}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=san}{slot=B-toloc.city_name} {english=francisco}{slot=I-toloc.city_name}

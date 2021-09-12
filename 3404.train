@@ -1,0 +1,1 @@
+{english=list}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=kansas}{slot=B-fromloc.city_name} {english=city}{slot=I-fromloc.city_name} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name}

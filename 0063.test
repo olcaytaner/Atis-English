@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=far}{slot=O} {english=is}{slot=O} {english=los}{slot=B-airport_name} {english=angeles}{slot=I-airport_name} {english=international}{slot=I-airport_name} {english=from}{slot=O} {english=downtown}{slot=O}

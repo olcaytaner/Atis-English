@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=many}{slot=O} {english=northwest}{slot=B-airline_name} {english=flights}{slot=O} {english=leave}{slot=O} {english=st.}{slot=B-fromloc.city_name} {english=paul}{slot=I-fromloc.city_name}

@@ -1,0 +1,1 @@
+{english=a}{slot=O} {english=flight}{slot=O} {english=on}{slot=O} {english=continental}{slot=B-airline_name} {english=airlines}{slot=I-airline_name} {english=leaving}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=going}{slot=O} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name}

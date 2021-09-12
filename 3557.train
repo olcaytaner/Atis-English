@@ -1,0 +1,1 @@
+{english=give}{slot=O} {english=me}{slot=O} {english=the}{slot=O} {english=continental}{slot=B-airline_name} {english=flights}{slot=O} {english=from}{slot=O} {english=seattle}{slot=B-fromloc.city_name}

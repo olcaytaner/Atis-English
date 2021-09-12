@@ -1,0 +1,1 @@
+{english=do}{slot=O} {english=you}{slot=O} {english=have}{slot=O} {english=an}{slot=O} {english=819}{slot=B-depart_time.time} {english=flight}{slot=O} {english=from}{slot=O} {english=denver}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=san}{slot=B-toloc.city_name} {english=francisco}{slot=I-toloc.city_name}

@@ -1,0 +1,1 @@
+{english=thanks}{slot=O} {english=and}{slot=O} {english=what's}{slot=O} {english=the}{slot=O} {english=last}{slot=B-flight_mod} {english=flight}{slot=O} {english=back}{slot=O} {english=from}{slot=O} {english=washington}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=boston}{slot=B-toloc.city_name}

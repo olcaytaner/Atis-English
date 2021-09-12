@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=flights}{slot=O} {english=go}{slot=O} {english=from}{slot=O} {english=philadelphia}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=dallas}{slot=B-toloc.city_name} {english=via}{slot=O} {english=atlanta}{slot=B-stoploc.city_name}

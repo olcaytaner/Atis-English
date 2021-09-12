@@ -1,0 +1,1 @@
+{english=i}{slot=O} {english=would}{slot=O} {english=like}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=ontario}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=tacoma}{slot=B-toloc.city_name}

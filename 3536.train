@@ -1,0 +1,1 @@
+{english=please}{slot=O} {english=list}{slot=O} {english=all}{slot=O} {english=northwest}{slot=B-airline_name} {english=flights}{slot=O} {english=into}{slot=O} {english=denver}{slot=B-toloc.city_name}

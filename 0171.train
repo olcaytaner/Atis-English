@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=car}{slot=B-transport_type} {english=rentals}{slot=I-transport_type} {english=are}{slot=O} {english=available}{slot=O} {english=next}{slot=B-depart_date.date_relative} {english=sunday}{slot=B-depart_date.day_name} {english=from}{slot=O} {english=denver}{slot=B-fromloc.airport_name} {english=airport}{slot=I-fromloc.airport_name}

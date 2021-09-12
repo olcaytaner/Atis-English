@@ -1,0 +1,1 @@
+{english=i}{slot=O} {english=would}{slot=O} {english=like}{slot=O} {english=your}{slot=O} {english=rates}{slot=O} {english=between}{slot=O} {english=atlanta}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=boston}{slot=B-toloc.city_name} {english=on}{slot=O} {english=september}{slot=B-depart_date.month_name} {english=third}{slot=B-depart_date.day_number}

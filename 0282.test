@@ -1,0 +1,1 @@
+{english=first}{slot=B-class_type} {english=class}{slot=I-class_type} {english=price}{slot=O} {english=san}{slot=B-fromloc.city_name} {english=francisco}{slot=I-fromloc.city_name} {english=pittsburgh}{slot=B-fromloc.city_name} {english=round}{slot=B-round_trip} {english=trip}{slot=I-round_trip}

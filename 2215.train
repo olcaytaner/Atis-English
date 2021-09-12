@@ -1,0 +1,1 @@
+{english=ground}{slot=O} {english=transportation}{slot=O} {english=between}{slot=O} {english=airport}{slot=O} {english=and}{slot=O} {english=downtown}{slot=O} {english=in}{slot=O} {english=boston}{slot=B-toloc.city_name}

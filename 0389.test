@@ -1,0 +1,1 @@
+{english=hi}{slot=O} {english=i}{slot=O} {english=want}{slot=O} {english=a}{slot=O} {english=round}{slot=B-round_trip} {english=trip}{slot=I-round_trip} {english=ticket}{slot=O} {english=to}{slot=O} {english=dallas}{slot=B-toloc.city_name}

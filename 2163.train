@@ -1,0 +1,1 @@
+{english=all}{slot=O} {english=northwest}{slot=B-airline_name} {english=flights}{slot=O} {english=with}{slot=O} {english=stopovers}{slot=O} {english=in}{slot=O} {english=denver}{slot=B-stoploc.city_name}

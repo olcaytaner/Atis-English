@@ -1,0 +1,1 @@
+{english=tell}{slot=O} {english=me}{slot=O} {english=about}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=at}{slot=O} {english=salt}{slot=B-city_name} {english=lake}{slot=I-city_name} {english=city}{slot=I-city_name}

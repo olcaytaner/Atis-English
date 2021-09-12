@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=many}{slot=O} {english=american}{slot=B-airline_name} {english=airline}{slot=I-airline_name} {english=flights}{slot=O} {english=leave}{slot=O} {english=denver}{slot=B-fromloc.city_name} {english=june}{slot=B-depart_date.month_name} {english=tenth}{slot=B-depart_date.day_number}

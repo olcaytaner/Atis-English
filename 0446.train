@@ -1,0 +1,1 @@
+{english=show}{slot=O} {english=me}{slot=O} {english=fares}{slot=O} {english=less}{slot=B-cost_relative} {english=than}{slot=O} {english=400}{slot=B-fare_amount} {english=dollars}{slot=I-fare_amount} {english=for}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=dallas}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=baltimore}{slot=B-toloc.city_name}

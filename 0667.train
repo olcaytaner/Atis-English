@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=many}{slot=O} {english=flights}{slot=O} {english=does}{slot=O} {english=american}{slot=B-airline_name} {english=airlines}{slot=I-airline_name} {english=have}{slot=O} {english=with}{slot=O} {english=a}{slot=O} {english=class}{slot=O} {english=of}{slot=O} {english=service}{slot=O} {english=code}{slot=O} {english=f}{slot=B-fare_basis_code}

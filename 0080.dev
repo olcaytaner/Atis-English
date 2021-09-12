@@ -1,0 +1,1 @@
+{english=i}{slot=O} {english=would}{slot=O} {english=like}{slot=O} {english=to}{slot=O} {english=see}{slot=O} {english=the}{slot=O} {english=economy}{slot=B-economy} {english=fares}{slot=O} {english=for}{slot=O} {english=denver}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=philadelphia}{slot=B-toloc.city_name}

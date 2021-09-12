@@ -1,0 +1,1 @@
+{english=flights}{slot=O} {english=from}{slot=O} {english=atlanta}{slot=B-fromloc.city_name} {english=august}{slot=B-depart_date.month_name} {english=second}{slot=B-depart_date.day_number}

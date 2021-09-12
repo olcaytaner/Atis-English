@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=morning}{slot=B-depart_time.period_of_day} {english=flights}{slot=O} {english=do}{slot=O} {english=you}{slot=O} {english=have}{slot=O} {english=between}{slot=O} {english=oakland}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=denver}{slot=B-toloc.city_name}

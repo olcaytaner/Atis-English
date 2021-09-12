@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=does}{slot=O} {english=s}{slot=B-meal_code} {english=designate}{slot=O} {english=as}{slot=O} {english=a}{universalDependency=7$DET}{slot=O} {english=meal}{slot=B-meal}

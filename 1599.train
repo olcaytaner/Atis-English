@@ -1,0 +1,1 @@
+{english=does}{slot=O} {english=dl}{slot=B-airline_code} {english=stand}{slot=O} {english=for}{slot=O} {english=delta}{slot=B-airline_name}

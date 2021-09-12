@@ -1,0 +1,1 @@
+{english=kindly}{slot=O} {english=give}{slot=O} {english=me}{slot=O} {english=the}{slot=O} {english=type}{slot=O} {english=of}{slot=O} {english=aircraft}{slot=O} {english=used}{slot=O} {english=to}{slot=O} {english=fly}{slot=O} {english=from}{slot=O} {english=atlanta}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name}

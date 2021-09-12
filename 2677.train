@@ -1,0 +1,1 @@
+{english=what's}{slot=O} {english=the}{slot=O} {english=cheapest}{slot=B-cost_relative} {english=flight}{slot=O} {english=from}{slot=O} {english=baltimore}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=dallas}{slot=B-toloc.city_name} {english=on}{slot=O} {english=american}{slot=B-airline_name}

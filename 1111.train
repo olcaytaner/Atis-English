@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=is}{slot=O} {english=the}{slot=O} {english=latest}{slot=B-flight_mod} {english=flight}{slot=O} {english=from}{slot=O} {english=washington}{slot=B-fromloc.city_name} {english=dc}{slot=B-fromloc.state_code} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name}

@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=many}{slot=O} {english=fares}{slot=O} {english=are}{slot=O} {english=there}{slot=O} {english=one}{slot=B-round_trip} {english=way}{slot=I-round_trip} {english=from}{slot=O} {english=tacoma}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=montreal}{slot=B-toloc.city_name}

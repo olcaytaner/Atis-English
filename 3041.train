@@ -1,0 +1,1 @@
+{english=i'm}{slot=O} {english=interested}{slot=O} {english=in}{slot=O} {english=a}{slot=O} {english=flight}{slot=O} {english=on}{slot=O} {english=american}{slot=B-airline_name} {english=airlines}{slot=I-airline_name} {english=from}{slot=O} {english=dallas}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=washington}{slot=B-toloc.city_name}

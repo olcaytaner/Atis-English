@@ -1,0 +1,1 @@
+{english=please}{slot=O} {english=tell}{slot=O} {english=me}{slot=O} {english=the}{slot=O} {english=flights}{slot=O} {english=between}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=philadelphia}{slot=B-toloc.city_name} {english=next}{slot=B-depart_date.date_relative} {english=thursday}{slot=B-depart_date.day_name}

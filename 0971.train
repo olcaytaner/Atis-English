@@ -1,0 +1,1 @@
+{english=show}{slot=O} {english=me}{slot=O} {english=all}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=orlando}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=san}{slot=B-toloc.city_name} {english=diego}{slot=I-toloc.city_name} {english=on}{slot=O} {english=a}{slot=O} {english=boeing}{slot=O} {english=737}{slot=B-aircraft_code}

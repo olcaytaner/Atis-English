@@ -1,0 +1,1 @@
+{english=i}{slot=O} {english=will}{slot=O} {english=need}{slot=O} {english=a}{slot=O} {english=car}{slot=B-transport_type} {english=at}{slot=O} {english=new}{slot=B-city_name} {english=york}{slot=I-city_name}

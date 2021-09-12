@@ -1,0 +1,1 @@
+{english=pm}{slot=B-depart_time.period_of_day} {english=flights}{slot=O} {english=leaving}{slot=O} {english=san}{slot=B-fromloc.city_name} {english=francisco}{slot=I-fromloc.city_name} {english=arriving}{slot=O} {english=boston}{slot=B-toloc.city_name}

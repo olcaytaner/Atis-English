@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=airlines}{slot=O} {english=leave}{slot=O} {english=from}{slot=O} {english=washington}{slot=B-fromloc.city_name}

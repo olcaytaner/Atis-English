@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=many}{slot=O} {english=flights}{slot=O} {english=has}{slot=O} {english=continental}{slot=B-airline_name} {english=into}{slot=O} {english=and}{slot=O} {english=out}{slot=O} {english=of}{slot=O} {english=atlanta}{slot=B-fromloc.city_name}

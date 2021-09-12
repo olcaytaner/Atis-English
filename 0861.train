@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=is}{slot=O} {english=the}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=available}{slot=O} {english=in}{slot=O} {english=the}{slot=O} {english=city}{slot=O} {english=of}{slot=O} {english=fort}{slot=B-city_name} {english=worth}{slot=I-city_name}

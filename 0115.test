@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=many}{slot=O} {english=first}{slot=B-class_type} {english=class}{slot=I-class_type} {english=flights}{slot=O} {english=does}{slot=O} {english=united}{slot=B-airline_name} {english=have}{slot=O} {english=leaving}{slot=O} {english=from}{slot=O} {english=all}{slot=O} {english=cities}{slot=O} {english=today}{slot=B-depart_date.today_relative}

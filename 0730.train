@@ -1,0 +1,1 @@
+{english=can}{slot=O} {english=you}{slot=O} {english=rent}{slot=O} {english=a}{slot=O} {english=car}{slot=B-transport_type} {english=at}{slot=O} {english=stapleton}{slot=B-fromloc.airport_name} {english=international}{slot=I-fromloc.airport_name} {english=airport}{slot=I-fromloc.airport_name} {english=in}{slot=O} {english=denver}{slot=B-fromloc.city_name}

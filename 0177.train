@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=are}{slot=O} {english=the}{slot=O} {english=costs}{slot=O} {english=of}{slot=O} {english=car}{slot=B-transport_type} {english=rental}{slot=I-transport_type} {english=in}{slot=O} {english=dallas}{slot=B-city_name}

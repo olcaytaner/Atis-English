@@ -1,0 +1,1 @@
+{english=tell}{slot=O} {english=me}{slot=O} {english=about}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=in}{slot=O} {english=st.}{slot=B-airport_name} {english=petersburg}{slot=I-airport_name} {english=airport}{slot=I-airport_name}

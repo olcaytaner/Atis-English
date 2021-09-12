@@ -1,0 +1,1 @@
+{english=does}{slot=O} {english=any}{slot=O} {english=airline}{slot=O} {english=have}{slot=O} {english=an}{slot=O} {english=afternoon}{slot=B-depart_time.period_of_day} {english=flight}{slot=O} {english=from}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=oakland}{slot=B-toloc.city_name}

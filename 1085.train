@@ -1,0 +1,1 @@
+{english=flights}{slot=O} {english=from}{slot=O} {english=dc}{slot=B-fromloc.state_code} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name}

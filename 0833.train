@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=is}{slot=O} {english=available}{slot=O} {english=between}{slot=O} {english=phoenix}{slot=B-airport_name} {english=airport}{slot=I-airport_name} {english=and}{slot=O} {english=downtown}{slot=O} {english=phoenix}{slot=B-city_name}

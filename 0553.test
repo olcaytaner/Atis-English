@@ -1,0 +1,1 @@
+{english=now}{slot=O} {english=get}{slot=O} {english=me}{slot=O} {english=from}{slot=O} {english=pittsburgh}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name}

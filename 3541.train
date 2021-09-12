@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=about}{slot=O} {english=arrivals}{slot=O} {english=for}{slot=O} {english=american}{slot=B-airline_name} {english=in}{slot=O} {english=atlanta}{slot=B-toloc.city_name}

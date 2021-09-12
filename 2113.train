@@ -1,0 +1,1 @@
+{english=do}{slot=O} {english=you}{slot=O} {english=have}{slot=O} {english=a}{slot=O} {english=flight}{slot=O} {english=from}{slot=O} {english=atlanta}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=boston}{slot=B-toloc.city_name} {english=that}{slot=O} {english=will}{slot=O} {english=stop}{slot=O} {english=in}{slot=O} {english=washington}{slot=B-stoploc.city_name}

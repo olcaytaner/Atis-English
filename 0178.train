@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=are}{slot=O} {english=the}{slot=O} {english=rental}{slot=B-transport_type} {english=car}{slot=I-transport_type} {english=rates}{slot=O} {english=in}{slot=O} {english=san}{slot=B-city_name} {english=francisco}{slot=I-city_name}

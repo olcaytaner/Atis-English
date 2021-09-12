@@ -1,0 +1,1 @@
+{english=is}{slot=O} {english=there}{slot=O} {english=any}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=to}{slot=O} {english=the}{slot=O} {english=city}{slot=B-city_name} {english=in}{slot=I-city_name} {english=dallas}{slot=I-city_name}

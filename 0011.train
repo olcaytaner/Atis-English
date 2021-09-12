@@ -1,0 +1,1 @@
+{english=now}{slot=O} {english=show}{slot=O} {english=me}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=in}{slot=O} {english=houston}{slot=B-city_name} {english=on}{slot=O} {english=monday}{slot=B-day_name} {english=afternoon}{slot=B-period_of_day}

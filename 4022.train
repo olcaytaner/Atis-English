@@ -1,0 +1,1 @@
+{english=i}{slot=O} {english=need}{slot=O} {english=to}{slot=O} {english=go}{slot=O} {english=from}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=dallas}{slot=B-toloc.city_name}

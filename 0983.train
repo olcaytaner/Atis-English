@@ -1,0 +1,1 @@
+{english=does}{slot=O} {english=delta}{slot=B-airline_name} {english=aircraft}{slot=O} {english=fly}{slot=O} {english=dc10}{slot=B-aircraft_code}

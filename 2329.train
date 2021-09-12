@@ -1,0 +1,1 @@
+{english=find}{slot=O} {english=me}{slot=O} {english=a}{slot=O} {english=flight}{slot=O} {english=leaving}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=at}{slot=O} {english=12}{slot=B-depart_time.time} {english=o'clock}{slot=I-depart_time.time}

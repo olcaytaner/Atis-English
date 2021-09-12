@@ -1,0 +1,1 @@
+{english=show}{slot=O} {english=me}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=denver}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=dc}{slot=B-toloc.state_code} {english=on}{slot=O} {english=wednesday}{slot=B-depart_date.day_name}

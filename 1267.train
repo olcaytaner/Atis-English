@@ -1,0 +1,1 @@
+{english=list}{slot=O} {english=all}{slot=O} {english=the}{slot=O} {english=flights}{slot=O} {english=that}{slot=O} {english=takeoff}{slot=O} {english=from}{slot=O} {english=general}{slot=B-fromloc.airport_name} {english=mitchell}{slot=I-fromloc.airport_name} {english=international}{slot=I-fromloc.airport_name}

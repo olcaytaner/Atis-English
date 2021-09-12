@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=many}{slot=O} {english=cities}{slot=O} {english=are}{slot=O} {english=served}{slot=O} {english=by}{slot=O} {english=continental}{slot=B-airline_name} {english=with}{slot=O} {english=first}{slot=B-class_type} {english=class}{slot=I-class_type} {english=flights}{slot=O}

@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=city}{slot=O} {english=is}{slot=O} {english=the}{slot=O} {english=airport}{slot=O} {english=mco}{slot=B-fromloc.airport_code} {english=in}{slot=O}

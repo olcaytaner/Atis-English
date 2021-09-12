@@ -1,0 +1,1 @@
+{english=give}{slot=O} {english=me}{slot=O} {english=the}{slot=O} {english=saturday}{slot=B-depart_date.day_name} {english=morning}{slot=B-depart_time.period_of_day} {english=flights}{slot=O} {english=with}{slot=O} {english=meals}{slot=B-meal} {english=from}{slot=O} {english=chicago}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=minneapolis}{slot=B-toloc.city_name}

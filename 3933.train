@@ -1,0 +1,1 @@
+{english=which}{slot=O} {english=flights}{slot=O} {english=depart}{slot=O} {english=from}{slot=O} {english=a}{slot=O} {english=atlanta}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=arrive}{slot=O} {english=in}{slot=O} {english=toronto}{slot=B-toloc.city_name}

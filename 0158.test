@@ -1,0 +1,1 @@
+{english=a}{slot=O} {english=breakfast}{slot=B-meal_description} {english=flight}{slot=O} {english=from}{slot=O} {english=denver}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=san}{slot=B-toloc.city_name} {english=francisco}{slot=I-toloc.city_name} {english=please}{slot=O}

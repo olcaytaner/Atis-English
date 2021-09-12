@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=types}{slot=O} {english=of}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=are}{slot=O} {english=there}{slot=O} {english=to}{slot=O} {english=san}{slot=B-toloc.airport_name} {english=francisco}{slot=I-toloc.airport_name} {english=airport}{slot=I-toloc.airport_name}

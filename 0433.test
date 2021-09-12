@@ -1,0 +1,1 @@
+{english=list}{slot=O} {english=the}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=dallas}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=san}{slot=B-toloc.city_name} {english=francisco}{slot=I-toloc.city_name} {english=on}{slot=O} {english=american}{slot=B-airline_name} {english=airlines}{slot=I-airline_name}

@@ -1,0 +1,1 @@
+{english=show}{slot=O} {english=me}{slot=O} {english=the}{slot=O} {english=flights}{slot=O} {english=on}{slot=O} {english=twa}{slot=B-airline_code} {english=from}{slot=O} {english=atlanta}{slot=B-fromloc.city_name} {english=in}{slot=O} {english=the}{slot=O} {english=morning}{slot=B-depart_time.period_of_day}

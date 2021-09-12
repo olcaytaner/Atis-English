@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=many}{slot=O} {english=flights}{slot=O} {english=does}{slot=O} {english=alaska}{slot=B-airline_name} {english=airlines}{slot=I-airline_name} {english=have}{slot=O} {english=to}{slot=O} {english=burbank}{slot=B-toloc.city_name}

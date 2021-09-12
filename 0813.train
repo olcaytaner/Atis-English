@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=is}{slot=O} {english=available}{slot=O} {english=at}{slot=O} {english=the}{slot=O} {english=atlanta}{slot=B-airport_name} {english=airport}{slot=I-airport_name}

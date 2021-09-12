@@ -1,0 +1,1 @@
+{english=is}{slot=O} {english=there}{slot=O} {english=a}{slot=O} {english=4}{slot=B-depart_time.time} {english=o'clock}{slot=I-depart_time.time} {english=flight}{slot=O} {english=from}{slot=O} {english=washington}{slot=B-fromloc.city_name} {english=dc}{slot=B-fromloc.state_code} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name}

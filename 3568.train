@@ -1,0 +1,1 @@
+{english=show}{slot=O} {english=sunday}{slot=B-depart_date.day_name} {english=flights}{slot=O} {english=from}{slot=O} {english=seattle}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=chicago}{slot=B-toloc.city_name}

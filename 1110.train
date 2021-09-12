@@ -1,0 +1,1 @@
+{english=looking}{slot=O} {english=for}{slot=O} {english=a}{slot=O} {english=flight}{slot=O} {english=from}{slot=O} {english=dc}{slot=B-fromloc.state_code} {english=to}{slot=O} {english=minnesota}{slot=B-toloc.state_name}

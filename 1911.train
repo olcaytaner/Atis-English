@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=is}{slot=O} {english=the}{slot=O} {english=first}{slot=B-class_type} {english=class}{slot=I-class_type} {english=fare}{slot=O} {english=for}{slot=O} {english=a}{slot=O} {english=round}{slot=B-round_trip} {english=trip}{slot=I-round_trip} {english=dallas}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name}

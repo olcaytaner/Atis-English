@@ -1,0 +1,1 @@
+{english=i}{slot=O} {english=need}{slot=O} {english=the}{slot=O} {english=flight}{slot=O} {english=numbers}{slot=O} {english=of}{slot=O} {english=flights}{slot=O} {english=leaving}{slot=O} {english=from}{slot=O} {english=cleveland}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=arriving}{slot=O} {english=at}{slot=O} {english=dallas}{slot=B-toloc.city_name}

@@ -1,0 +1,1 @@
+{english=all}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=montreal}{slot=B-fromloc.city_name} {english=less}{slot=B-cost_relative} {english=than}{slot=O} {english=150}{slot=B-fare_amount} {english=dollars}{slot=I-fare_amount}

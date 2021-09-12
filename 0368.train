@@ -1,0 +1,1 @@
+{english=tell}{slot=O} {english=me}{slot=O} {english=all}{slot=O} {english=the}{slot=O} {english=airports}{slot=O} {english=in}{slot=O} {english=the}{slot=O} {english=new}{slot=B-city_name} {english=york}{slot=I-city_name} {english=city}{slot=I-city_name} {english=area}{slot=O}

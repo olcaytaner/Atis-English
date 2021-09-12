@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=much}{slot=O} {english=does}{slot=O} {english=it}{slot=O} {english=cost}{slot=O} {english=to}{slot=O} {english=go}{slot=O} {english=from}{slot=O} {english=downtown}{slot=O} {english=to}{slot=O} {english=logan}{slot=B-toloc.airport_name} {english=airport}{slot=I-toloc.airport_name}

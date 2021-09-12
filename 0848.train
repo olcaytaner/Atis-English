@@ -1,0 +1,1 @@
+{english=ground}{slot=O} {english=transportation}{slot=O} {english=in}{slot=O} {english=las}{slot=B-city_name} {english=vegas}{slot=I-city_name}

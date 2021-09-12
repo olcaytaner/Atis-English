@@ -1,0 +1,1 @@
+{english=in}{slot=O} {english=boston}{slot=B-city_name} {english=is}{slot=O} {english=there}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=between}{slot=O} {english=airport}{slot=O} {english=and}{slot=O} {english=downtown}{slot=O}

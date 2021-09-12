@@ -1,0 +1,1 @@
+{english=show}{slot=O} {english=me}{slot=O} {english=city}{slot=O} {english=served}{slot=O} {english=both}{slot=O} {english=by}{slot=O} {english=nationair}{slot=B-airline_name} {english=and}{slot=O} {english=canadian}{slot=B-airline_name} {english=airlines}{slot=I-airline_name} {english=international}{slot=I-airline_name}

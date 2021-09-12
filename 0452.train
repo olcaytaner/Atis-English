@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=is}{slot=O} {english=the}{slot=O} {english=seating}{slot=O} {english=capacity}{slot=O} {english=of}{slot=O} {english=the}{slot=O} {english=various}{slot=O} {english=airplanes}{slot=O} {english=that}{slot=O} {english=united}{slot=B-airline_name} {english=airlines}{slot=I-airline_name} {english=uses}{slot=O}

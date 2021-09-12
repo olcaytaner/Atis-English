@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=price}{slot=O} {english=is}{slot=O} {english=a}{slot=O} {english=limousine}{slot=B-transport_type} {english=service}{slot=O} {english=to}{slot=O} {english=new}{slot=B-fromloc.city_name} {english=york's}{slot=I-fromloc.city_name} {english=la}{slot=B-fromloc.airport_name} {english=guardia}{slot=I-fromloc.airport_name}

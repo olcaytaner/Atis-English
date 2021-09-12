@@ -1,0 +1,1 @@
+{english=can}{slot=O} {english=i}{slot=O} {english=see}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=from}{slot=O} {english=long}{slot=B-fromloc.city_name} {english=beach}{slot=I-fromloc.city_name} {english=airport}{slot=O} {english=to}{slot=O} {english=downtown}{slot=O}

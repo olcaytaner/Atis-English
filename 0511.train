@@ -1,0 +1,1 @@
+{english=which}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=memphis}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=tacoma}{slot=B-toloc.city_name} {english=also}{slot=O} {english=stop}{slot=O} {english=in}{slot=O} {english=los}{slot=B-stoploc.city_name} {english=angeles}{slot=I-stoploc.city_name}

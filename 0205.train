@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=is}{slot=O} {english=the}{slot=O} {english=earliest}{slot=B-flight_mod} {english=flight}{slot=O} {english=between}{slot=O} {english=logan}{slot=B-fromloc.airport_name} {english=and}{slot=O} {english=bwi}{slot=B-toloc.airport_code}

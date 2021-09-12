@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=is}{slot=O} {english=the}{slot=O} {english=abbreviation}{slot=O} {english=for}{slot=O} {english=canadian}{slot=B-airline_name} {english=airlines}{slot=I-airline_name} {english=international}{slot=I-airline_name}

@@ -1,0 +1,1 @@
+{english=i}{slot=O} {english=need}{slot=O} {english=late}{slot=B-flight_mod} {english=flight}{slot=O} {english=wednesday}{slot=B-depart_date.day_name} {english=from}{slot=O} {english=oakland}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=salt}{slot=B-toloc.city_name} {english=lake}{slot=I-toloc.city_name} {english=city}{slot=I-toloc.city_name}

@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=flights}{slot=O} {english=depart}{slot=O} {english=from}{slot=O} {english=pittsburgh}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=arrive}{slot=O} {english=in}{slot=O} {english=oakland}{slot=B-toloc.city_name} {english=california}{slot=B-toloc.state_name}

@@ -1,0 +1,1 @@
+{english=an}{slot=O} {english=early}{slot=B-flight_mod} {english=flight}{slot=O} {english=on}{slot=O} {english=wednesday}{slot=B-depart_date.day_name} {english=morning}{slot=B-depart_time.period_of_day} {english=from}{slot=O} {english=baltimore}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=newark}{slot=B-toloc.city_name}

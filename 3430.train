@@ -1,0 +1,1 @@
+{english=does}{slot=O} {english=the}{slot=O} {english=airport}{slot=O} {english=at}{slot=O} {english=burbank}{slot=B-toloc.city_name} {english=have}{slot=O} {english=a}{slot=O} {english=flight}{slot=O} {english=that}{slot=O} {english=comes}{slot=O} {english=in}{slot=O} {english=from}{slot=O} {english=kansas}{slot=B-fromloc.city_name} {english=city}{slot=I-fromloc.city_name}

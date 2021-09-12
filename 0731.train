@@ -1,0 +1,1 @@
+{english=i'd}{slot=O} {english=like}{slot=O} {english=a}{slot=O} {english=limo}{slot=B-transport_type} {english=in}{slot=O} {english=denver}{slot=B-fromloc.city_name} {english=on}{slot=O} {english=august}{slot=B-depart_date.month_name} {english=seventh}{slot=B-depart_date.day_number}

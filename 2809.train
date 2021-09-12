@@ -1,0 +1,1 @@
+{english=i}{slot=O} {english=want}{slot=O} {english=to}{slot=O} {english=leave}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=at}{slot=O} {english=838}{slot=B-depart_time.time}

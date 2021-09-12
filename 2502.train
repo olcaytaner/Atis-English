@@ -1,0 +1,1 @@
+{english=okay}{slot=O} {english=can}{slot=O} {english=you}{slot=O} {english=tell}{slot=O} {english=me}{slot=O} {english=the}{slot=O} {english=earliest}{slot=B-flight_mod} {english=flight}{slot=O} {english=which}{slot=O} {english=leaves}{slot=O} {english=from}{slot=O} {english=philadelphia}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=dallas}{slot=B-toloc.city_name}

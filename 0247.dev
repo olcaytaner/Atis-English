@@ -1,0 +1,1 @@
+{english=which}{slot=O} {english=airline}{slot=O} {english=serves}{slot=O} {english=denver}{slot=B-city_name} {english=pittsburgh}{slot=B-city_name} {english=and}{slot=O} {english=atlanta}{slot=B-city_name}

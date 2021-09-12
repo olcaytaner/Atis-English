@@ -1,0 +1,1 @@
+{english=explain}{slot=O} {english=meal}{slot=B-meal} {english=codes}{slot=B-meal_code} {english=sd}{slot=B-meal_code} {english=d}{slot=I-meal_code}

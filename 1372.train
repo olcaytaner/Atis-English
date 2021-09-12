@@ -1,0 +1,1 @@
+{english=next}{slot=B-depart_date.date_relative} {english=sunday}{slot=B-depart_date.day_name} {english=flights}{slot=O} {english=from}{slot=O} {english=miami}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=cleveland}{slot=B-toloc.city_name} {english=after}{slot=B-depart_time.time_relative} {english=1200}{slot=B-depart_time.time} {english=hours}{slot=I-depart_time.time}

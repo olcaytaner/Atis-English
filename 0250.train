@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=expensive}{slot=O} {english=is}{slot=O} {english=the}{slot=O} {english=san}{slot=B-city_name} {english=francisco}{slot=I-city_name} {english=limousine}{slot=B-transport_type} {english=service}{slot=O}

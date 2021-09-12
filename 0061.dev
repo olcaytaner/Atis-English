@@ -1,0 +1,1 @@
+{english=list}{slot=O} {english=the}{slot=O} {english=distance}{slot=O} {english=in}{slot=O} {english=miles}{slot=O} {english=from}{slot=O} {english=toronto}{slot=B-fromloc.airport_name} {english=international}{slot=I-fromloc.airport_name} {english=airport}{slot=I-fromloc.airport_name} {english=to}{slot=O} {english=downtown}{slot=O} {english=toronto}{slot=B-city_name}

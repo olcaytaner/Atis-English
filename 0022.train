@@ -1,0 +1,1 @@
+{english=which}{slot=O} {english=airport}{slot=O} {english=is}{slot=O} {english=closest}{slot=B-mod} {english=to}{slot=O} {english=ontario}{slot=B-city_name} {english=california}{slot=B-state_name}

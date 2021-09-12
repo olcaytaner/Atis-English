@@ -1,0 +1,1 @@
+{english=show}{slot=O} {english=me}{slot=O} {english=all}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=san}{slot=B-fromloc.city_name} {english=francisco}{slot=I-fromloc.city_name} {english=to}{slot=O} {english=la}{slot=B-toloc.airport_name} {english=guardia}{slot=I-toloc.airport_name} {english=nonstop}{slot=B-flight_stop}

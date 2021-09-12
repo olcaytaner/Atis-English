@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=airlines}{slot=O} {english=are}{slot=O} {english=ac}{slot=B-airline_code} {english=and}{slot=O} {english=as}{slot=B-airline_code}

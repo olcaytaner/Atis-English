@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=do}{slot=O} {english=you}{slot=O} {english=know}{slot=O} {english=about}{slot=O} {english=car}{slot=B-transport_type} {english=rental}{slot=I-transport_type} {english=in}{slot=O} {english=denver}{slot=B-city_name}

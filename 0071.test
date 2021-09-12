@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=is}{slot=O} {english=the}{slot=O} {english=first}{slot=B-flight_mod} {english=flight}{slot=O} {english=from}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=stapleton}{slot=B-toloc.airport_name} {english=airport}{slot=I-toloc.airport_name} {english=for}{slot=O} {english=tomorrow}{slot=B-depart_date.today_relative}

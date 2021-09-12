@@ -1,0 +1,1 @@
+{english=find}{slot=O} {english=me}{slot=O} {english=all}{slot=O} {english=the}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=milwaukee}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=st.}{slot=B-city_name} {english=louis}{slot=I-city_name}

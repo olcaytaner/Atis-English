@@ -1,0 +1,1 @@
+{english=list}{slot=O} {english=the}{slot=O} {english=airlines}{slot=O} {english=that}{slot=O} {english=have}{slot=O} {english=nonstop}{slot=B-flight_stop} {english=afternoon}{slot=B-arrive_time.period_of_day} {english=flights}{slot=O} {english=from}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=oakland}{slot=B-toloc.city_name}

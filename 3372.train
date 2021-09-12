@@ -1,0 +1,1 @@
+{english=please}{slot=O} {english=list}{slot=O} {english=flights}{slot=O} {english=between}{slot=O} {english=san}{slot=B-fromloc.city_name} {english=francisco}{slot=I-fromloc.city_name} {english=and}{slot=O} {english=denver}{slot=B-toloc.city_name}

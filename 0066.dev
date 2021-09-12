@@ -1,0 +1,1 @@
+{english=is}{slot=O} {english=fare}{slot=O} {english=code}{slot=O} {english=b}{slot=B-fare_basis_code} {english=the}{slot=O} {english=same}{slot=B-mod} {english=as}{slot=O} {english=business}{slot=B-class_type} {english=class}{slot=I-class_type}

@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=burbank}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=milwaukee}{slot=B-toloc.city_name} {english=leave}{slot=O} {english=burbank}{slot=B-fromloc.city_name} {english=tomorrow}{slot=B-depart_date.today_relative}

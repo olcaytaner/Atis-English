@@ -1,0 +1,1 @@
+{english=list}{slot=O} {english=possible}{slot=O} {english=round}{slot=B-round_trip} {english=trip}{slot=I-round_trip} {english=daily}{slot=B-flight_days} {english=flights}{slot=O} {english=between}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=oakland}{slot=B-toloc.city_name}

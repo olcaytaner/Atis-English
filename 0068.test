@@ -1,0 +1,1 @@
+{english=where}{slot=O} {english=does}{slot=O} {english=delta}{slot=B-airline_name} {english=fly}{slot=O} {english=to}{slot=O} {english=that}{slot=O} {english=american}{slot=B-airline_name} {english=doesn't}{slot=B-mod}

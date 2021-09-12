@@ -1,0 +1,1 @@
+{english=kansas}{slot=B-fromloc.city_name} {english=city}{slot=I-fromloc.city_name} {english=to}{slot=O} {english=atlanta}{slot=B-toloc.city_name} {english=monday}{slot=B-depart_date.day_name} {english=morning}{slot=B-depart_time.period_of_day} {english=flights}{slot=O}

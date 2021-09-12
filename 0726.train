@@ -1,0 +1,1 @@
+{english=can}{slot=O} {english=i}{slot=O} {english=rent}{slot=O} {english=a}{slot=O} {english=car}{slot=B-transport_type} {english=in}{slot=O} {english=san}{slot=B-city_name} {english=jose}{slot=I-city_name} {english=too}{slot=O}

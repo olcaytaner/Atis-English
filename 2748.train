@@ -1,0 +1,1 @@
+{english=list}{slot=O} {english=round}{slot=B-round_trip} {english=trip}{slot=I-round_trip} {english=flights}{slot=O} {english=from}{slot=O} {english=orlando}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=kansas}{slot=B-toloc.city_name} {english=city}{slot=I-toloc.city_name}

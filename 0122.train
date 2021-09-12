@@ -1,0 +1,1 @@
+{english=philadelphia}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=san}{slot=B-toloc.city_name} {english=francisco}{slot=I-toloc.city_name} {english=with}{slot=O} {english=one}{slot=B-flight_stop} {english=stop}{slot=I-flight_stop} {english=in}{slot=O} {english=dallas}{slot=B-stoploc.city_name} {english=please}{slot=O}

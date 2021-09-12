@@ -1,0 +1,1 @@
+{english=show}{slot=O} {english=me}{slot=O} {english=the}{slot=O} {english=first}{slot=B-class_type} {english=class}{slot=I-class_type} {english=and}{slot=O} {english=coach}{slot=B-class_type} {english=flights}{slot=O} {english=from}{slot=O} {english=jfk}{slot=B-fromloc.airport_code} {english=to}{slot=O} {english=miami}{slot=B-toloc.city_name}

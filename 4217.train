@@ -1,0 +1,1 @@
+{english=i'm}{slot=O} {english=traveling}{slot=O} {english=to}{slot=O} {english=dallas}{slot=B-toloc.city_name} {english=from}{slot=O} {english=philadelphia}{slot=B-fromloc.city_name}

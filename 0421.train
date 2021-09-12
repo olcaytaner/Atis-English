@@ -1,0 +1,1 @@
+{english=and}{slot=O} {english=how}{slot=O} {english=can}{slot=O} {english=i}{slot=O} {english=get}{slot=O} {english=to}{slot=O} {english=the}{slot=O} {english=boston}{slot=B-toloc.airport_name} {english=airport}{slot=I-toloc.airport_name} {english=from}{slot=O} {english=downtown}{slot=O} {english=boston}{slot=B-fromloc.city_name}

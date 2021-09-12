@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=is}{slot=O} {english=the}{slot=O} {english=schedule}{slot=B-flight_time} {english=of}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=from}{slot=O} {english=the}{slot=O} {english=airport}{slot=O} {english=in}{slot=O} {english=philadelphia}{slot=B-fromloc.city_name} {english=into}{slot=O} {english=downtown}{slot=O}

@@ -1,0 +1,1 @@
+{english=tell}{slot=O} {english=me}{slot=O} {english=about}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=toronto}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=salt}{slot=B-toloc.city_name} {english=lake}{slot=I-toloc.city_name} {english=city}{slot=I-toloc.city_name}

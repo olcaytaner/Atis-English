@@ -1,0 +1,1 @@
+{english=do}{slot=O} {english=i}{slot=O} {english=get}{slot=O} {english=a}{slot=O} {english=meal}{slot=B-meal} {english=on}{slot=O} {english=the}{slot=O} {english=atlanta}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=bwi}{slot=B-toloc.airport_code} {english=flight}{slot=O} {english=eastern}{slot=B-airline_name} {english=210}{slot=B-flight_number}

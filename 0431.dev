@@ -1,0 +1,1 @@
+{english=list}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=charlotte}{slot=B-fromloc.city_name} {english=on}{slot=O} {english=saturday}{slot=B-depart_date.day_name} {english=afternoon}{slot=B-depart_time.period_of_day}

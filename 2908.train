@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=are}{slot=O} {english=the}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=cleveland}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=indianapolis}{slot=B-toloc.city_name} {english=for}{slot=O} {english=wednesday}{slot=B-depart_date.day_name} {english=the}{slot=O} {english=twelfth}{slot=B-depart_date.day_number}

@@ -1,0 +1,1 @@
+{english=columbus}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=chicago}{slot=B-toloc.city_name} {english=one}{slot=B-round_trip} {english=way}{slot=I-round_trip} {english=before}{slot=B-depart_time.time_relative} {english=10}{slot=B-depart_time.time} {english=am}{slot=I-depart_time.time}

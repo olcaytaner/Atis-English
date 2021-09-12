@@ -1,0 +1,1 @@
+{english=does}{slot=O} {english=flight}{slot=O} {english=ua}{slot=B-airline_code} {english=281}{slot=B-flight_number} {english=from}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name} {english=leave}{slot=O} {english=on}{slot=O} {english=tuesday}{slot=B-depart_date.day_name}

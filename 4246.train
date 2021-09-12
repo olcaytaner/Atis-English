@@ -1,0 +1,1 @@
+{english=i'd}{slot=O} {english=like}{slot=O} {english=to}{slot=O} {english=find}{slot=O} {english=a}{slot=O} {english=flight}{slot=O} {english=between}{slot=O} {english=dallas}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=philadelphia}{slot=B-toloc.city_name}

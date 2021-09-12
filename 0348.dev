@@ -1,0 +1,1 @@
+{english=list}{slot=O} {english=the}{slot=O} {english=shortest}{slot=B-flight_mod} {english=flight}{slot=O} {english=from}{slot=O} {english=san}{slot=B-fromloc.city_name} {english=jose}{slot=I-fromloc.city_name} {english=to}{slot=O} {english=houston}{slot=B-toloc.city_name}

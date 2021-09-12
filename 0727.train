@@ -1,0 +1,1 @@
+{english=train}{slot=B-transport_type} {english=to}{slot=O} {english=newark}{slot=B-city_name}

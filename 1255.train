@@ -1,0 +1,1 @@
+{english=i}{slot=O} {english=need}{slot=O} {english=to}{slot=O} {english=get}{slot=O} {english=downtown}{slot=O} {english=from}{slot=O} {english=the}{slot=O} {english=denver}{slot=B-fromloc.airport_name} {english=airport}{slot=I-fromloc.airport_name}

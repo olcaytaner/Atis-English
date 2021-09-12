@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=are}{slot=O} {english=all}{slot=O} {english=the}{slot=O} {english=flights}{slot=O} {english=between}{slot=O} {english=san}{slot=B-fromloc.city_name} {english=francisco}{slot=I-fromloc.city_name} {english=and}{slot=O} {english=boston}{slot=B-toloc.city_name}

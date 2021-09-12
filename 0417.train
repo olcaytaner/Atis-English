@@ -1,0 +1,1 @@
+{english=please}{slot=O} {english=show}{slot=O} {english=all}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=philadelphia}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=denver}{slot=B-toloc.airport_name} {english=airport}{slot=I-toloc.airport_name} {english=next}{slot=B-depart_date.date_relative} {english=sunday}{slot=B-depart_date.day_name}

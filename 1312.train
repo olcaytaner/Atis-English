@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=flights}{slot=O} {english=do}{slot=O} {english=you}{slot=O} {english=have}{slot=O} {english=today}{slot=B-depart_date.today_relative} {english=from}{slot=O} {english=san}{slot=B-fromloc.city_name} {english=francisco}{slot=I-fromloc.city_name} {english=to}{slot=O} {english=pittsburgh}{slot=B-toloc.city_name}

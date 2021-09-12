@@ -1,0 +1,1 @@
+{english=i'd}{slot=O} {english=like}{slot=O} {english=a}{slot=O} {english=return}{slot=O} {english=flight}{slot=O} {english=from}{slot=O} {english=denver}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=atlanta}{slot=B-toloc.city_name} {english=evening}{slot=B-depart_time.period_of_day} {english=flights}{slot=O}

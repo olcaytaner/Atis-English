@@ -1,0 +1,1 @@
+{english=list}{slot=O} {english=the}{slot=O} {english=alaska}{slot=B-airline_name} {english=airline}{slot=I-airline_name} {english=flights}{slot=O} {english=from}{slot=O} {english=burbank}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=anywhere}{slot=O}

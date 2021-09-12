@@ -1,0 +1,1 @@
+{english=are}{slot=O} {english=there}{slot=O} {english=delta}{slot=B-airline_name} {english=flights}{slot=O} {english=leaving}{slot=O} {english=denver}{slot=B-fromloc.city_name}

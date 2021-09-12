@@ -1,0 +1,1 @@
+{english=what}{slot=O} {english=is}{slot=O} {english=the}{slot=O} {english=distance}{slot=O} {english=from}{slot=O} {english=la}{slot=B-fromloc.airport_name} {english=guardia}{slot=I-fromloc.airport_name} {english=to}{slot=O} {english=new}{slot=B-toloc.city_name} {english=york's}{slot=I-toloc.city_name} {english=downtown}{slot=O}

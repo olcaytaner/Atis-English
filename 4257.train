@@ -1,0 +1,1 @@
+{english=i'd}{slot=O} {english=like}{slot=O} {english=to}{slot=O} {english=know}{slot=O} {english=if}{slot=O} {english=you}{slot=O} {english=have}{slot=O} {english=any}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=denver}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=philadelphia}{slot=B-toloc.city_name}

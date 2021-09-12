@@ -1,0 +1,1 @@
+{english=hello}{slot=O} {english=i'd}{slot=O} {english=like}{slot=O} {english=a}{slot=O} {english=delta}{slot=B-airline_name} {english=flight}{slot=O} {english=from}{slot=O} {english=atlanta}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=boston}{slot=B-toloc.city_name}

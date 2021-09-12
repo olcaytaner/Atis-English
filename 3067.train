@@ -1,0 +1,1 @@
+{english=information}{slot=O} {english=on}{slot=O} {english=american}{slot=B-airline_name} {english=airlines}{slot=I-airline_name} {english=flight}{slot=O} {english=from}{slot=O} {english=washington}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=philadelphia}{slot=B-toloc.city_name}

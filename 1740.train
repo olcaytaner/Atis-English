@@ -1,0 +1,1 @@
+{english=which}{slot=O} {english=companies}{slot=O} {english=fly}{slot=O} {english=between}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=oakland}{slot=B-toloc.city_name}

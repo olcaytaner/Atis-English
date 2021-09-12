@@ -1,0 +1,1 @@
+{english=get}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=milwaukee}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=dtw}{slot=B-toloc.airport_code}

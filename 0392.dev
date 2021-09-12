@@ -1,0 +1,1 @@
+{english=do}{slot=O} {english=you}{slot=O} {english=have}{slot=O} {english=a}{slot=O} {english=flight}{slot=O} {english=from}{slot=O} {english=charlotte}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=atlanta}{slot=B-toloc.city_name} {english=on}{slot=O} {english=june}{slot=B-depart_date.month_name} {english=first}{slot=B-depart_date.day_number}

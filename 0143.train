@@ -1,0 +1,1 @@
+{english=flights}{slot=O} {english=from}{slot=O} {english=jfk}{slot=B-fromloc.airport_code} {english=or}{slot=B-or} {english=la}{slot=B-fromloc.airport_name} {english=guardia}{slot=I-fromloc.airport_name} {english=to}{slot=O} {english=cleveland}{slot=B-toloc.city_name}

@@ -1,0 +1,1 @@
+{english=all}{slot=O} {english=right}{slot=O} {english=what}{slot=O} {english=do}{slot=O} {english=you}{slot=O} {english=have}{slot=O} {english=from}{slot=O} {english=oakland}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=philadelphia}{slot=B-toloc.city_name} {english=on}{slot=O} {english=wednesday}{slot=B-depart_date.day_name}

@@ -1,0 +1,1 @@
+{english=flights}{slot=O} {english=from}{slot=O} {english=newark}{slot=B-fromloc.city_name} {english=new}{slot=B-fromloc.state_name} {english=jersey}{slot=I-fromloc.state_name} {english=to}{slot=O} {english=cleveland}{slot=B-toloc.city_name}

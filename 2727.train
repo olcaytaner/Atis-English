@@ -1,0 +1,1 @@
+{english=round}{slot=B-round_trip} {english=trip}{slot=I-round_trip} {english=fares}{slot=O} {english=new}{slot=B-fromloc.city_name} {english=york}{slot=I-fromloc.city_name} {english=to}{slot=O} {english=san}{slot=B-toloc.city_name} {english=jose}{slot=I-toloc.city_name}

@@ -1,0 +1,1 @@
+{english=ground}{slot=O} {english=transportation}{slot=O} {english=atl}{slot=B-airport_code} {english=to}{slot=O} {english=atlanta}{slot=B-toloc.city_name}

@@ -1,0 +1,1 @@
+{english=i'm}{slot=O} {english=planning}{slot=O} {english=a}{slot=O} {english=trip}{slot=O} {english=to}{slot=O} {english=pittsburgh}{slot=B-toloc.city_name} {english=and}{slot=O} {english=i}{slot=O} {english=live}{slot=O} {english=in}{slot=O} {english=denver}{slot=B-fromloc.city_name} {english=can}{slot=O} {english=you}{slot=O} {english=help}{slot=O} {english=me}{slot=O}

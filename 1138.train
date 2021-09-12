@@ -1,0 +1,1 @@
+{english=what's}{slot=O} {english=the}{slot=O} {english=fare}{slot=O} {english=for}{slot=O} {english=delta}{slot=B-airline_name} {english=flight}{slot=O} {english=217}{slot=B-flight_number} {english=from}{slot=O} {english=dallas}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=san}{slot=B-toloc.city_name} {english=francisco}{slot=I-toloc.city_name}

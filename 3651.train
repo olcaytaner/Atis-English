@@ -1,0 +1,1 @@
+{english=sunday's}{slot=B-depart_date.day_name} {english=flights}{slot=O} {english=between}{slot=O} {english=tampa}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=charlotte}{slot=B-toloc.city_name}

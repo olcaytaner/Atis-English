@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=much}{slot=O} {english=would}{slot=O} {english=car}{slot=B-transport_type} {english=rental}{slot=I-transport_type} {english=cost}{slot=O} {english=in}{slot=O} {english=atlanta}{slot=B-city_name}

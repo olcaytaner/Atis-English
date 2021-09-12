@@ -1,0 +1,1 @@
+{english=i}{slot=O} {english=want}{slot=O} {english=to}{slot=O} {english=go}{slot=O} {english=and}{slot=O} {english=take}{slot=O} {english=a}{slot=O} {english=plane}{slot=O} {english=in}{slot=O} {english=atlanta}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=fly}{slot=O} {english=to}{slot=O} {english=boston}{slot=B-toloc.city_name}

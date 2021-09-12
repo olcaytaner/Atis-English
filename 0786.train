@@ -1,0 +1,1 @@
+{english=the}{slot=O} {english=most}{slot=B-cost_relative} {english=expensive}{slot=I-cost_relative} {english=flight}{slot=O} {english=between}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=and}{slot=O} {english=philadelphia}{slot=B-toloc.city_name}

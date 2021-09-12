@@ -1,0 +1,1 @@
+{english=show}{slot=O} {english=me}{slot=O} {english=all}{slot=O} {english=daily}{slot=B-flight_days} {english=flights}{slot=O} {english=out}{slot=O} {english=of}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=that}{slot=O} {english=have}{slot=O} {english=coach}{slot=B-class_type} {english=class}{slot=I-class_type}

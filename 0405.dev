@@ -1,0 +1,1 @@
+{english=please}{slot=O} {english=give}{slot=O} {english=me}{slot=O} {english=fares}{slot=O} {english=from}{slot=O} {english=denver}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=philadelphia}{slot=B-toloc.city_name}

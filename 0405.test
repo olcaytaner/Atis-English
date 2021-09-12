@@ -1,0 +1,1 @@
+{english=i'd}{slot=O} {english=like}{slot=O} {english=to}{slot=O} {english=arrange}{slot=O} {english=a}{slot=O} {english=trip}{slot=O} {english=to}{slot=O} {english=baltimore}{slot=B-toloc.city_name} {english=on}{slot=O} {english=january}{slot=B-depart_date.month_name} {english=first}{slot=B-depart_date.day_number}

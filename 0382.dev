@@ -1,0 +1,1 @@
+{english=now}{slot=O} {english=i}{slot=O} {english=need}{slot=O} {english=a}{slot=O} {english=one}{slot=B-round_trip} {english=way}{slot=I-round_trip} {english=flight}{slot=O} {english=from}{slot=O} {english=pittsburgh}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name}

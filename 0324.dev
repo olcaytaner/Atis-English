@@ -1,0 +1,1 @@
+{english=what's}{slot=O} {english=the}{slot=O} {english=first}{slot=B-flight_mod} {english=flight}{slot=O} {english=after}{slot=B-depart_time.time_relative} {english=1}{slot=B-depart_time.time} {english=pm}{slot=I-depart_time.time} {english=leaving}{slot=O} {english=washington}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name}

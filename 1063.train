@@ -1,0 +1,1 @@
+{english=philadelphia}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=dallas}{slot=B-toloc.city_name} {english=arriving}{slot=O} {english=before}{slot=B-arrive_time.time_relative} {english=1}{slot=B-arrive_time.time} {english=in}{slot=O} {english=the}{slot=O} {english=afternoon}{slot=B-arrive_time.period_of_day}

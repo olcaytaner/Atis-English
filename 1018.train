@@ -1,0 +1,1 @@
+{english=please}{slot=O} {english=list}{slot=O} {english=the}{slot=O} {english=earliest}{slot=B-flight_mod} {english=lunch}{slot=B-meal_description} {english=flight}{slot=O} {english=from}{slot=O} {english=columbus}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=phoenix}{slot=B-toloc.city_name}

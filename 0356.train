@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=long}{slot=O} {english=is}{slot=O} {english=a}{slot=O} {english=trip}{slot=O} {english=from}{slot=O} {english=philadelphia}{slot=B-fromloc.airport_name} {english=airport}{slot=I-fromloc.airport_name} {english=to}{slot=O} {english=downtown}{slot=O} {english=philadelphia}{slot=B-toloc.city_name}

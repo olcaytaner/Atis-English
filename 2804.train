@@ -1,0 +1,1 @@
+{english=i}{slot=O} {english=want}{slot=O} {english=a}{slot=O} {english=return}{slot=B-round_trip} {english=flight}{slot=O} {english=from}{slot=O} {english=washington}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=dallas}{slot=B-toloc.city_name} {english=on}{slot=O} {english=american}{slot=B-airline_name} {english=airlines}{slot=I-airline_name}

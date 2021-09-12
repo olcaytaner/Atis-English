@@ -1,0 +1,1 @@
+{english=which}{slot=O} {english=cities}{slot=O} {english=are}{slot=O} {english=serviced}{slot=O} {english=by}{slot=O} {english=both}{slot=O} {english=american}{slot=B-airline_name} {english=and}{slot=O} {english=delta}{slot=B-airline_name} {english=airlines}{slot=I-airline_name}

@@ -1,0 +1,1 @@
+{english=list}{slot=O} {english=california}{slot=B-state_name} {english=nevada}{slot=B-state_name} {english=arizona}{slot=B-state_name} {english=airports}{slot=O}

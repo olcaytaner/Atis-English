@@ -1,0 +1,1 @@
+{english=coach}{slot=B-class_type} {english=fares}{slot=O} {english=only}{slot=B-flight_mod} {english=weekdays}{slot=I-flight_mod} {english=for}{slot=O} {english=denver}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=boston}{slot=B-toloc.city_name}

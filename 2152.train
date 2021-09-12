@@ -1,0 +1,1 @@
+{english=united}{slot=B-airline_name} {english=airlines}{slot=I-airline_name} {english=flights}{slot=O} {english=stopping}{slot=O} {english=in}{slot=O} {english=denver}{slot=B-stoploc.city_name} {english=before}{slot=B-depart_time.time_relative} {english=noon}{slot=B-depart_time.time}

@@ -1,0 +1,1 @@
+{english=is}{slot=O} {english=there}{slot=O} {english=a}{slot=O} {english=flight}{slot=O} {english=from}{slot=O} {english=atlanta}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=san}{slot=B-toloc.city_name} {english=francisco}{slot=I-toloc.city_name} {english=which}{slot=O} {english=connects}{slot=B-connect} {english=in}{slot=O} {english=dallas}{slot=B-stoploc.city_name}

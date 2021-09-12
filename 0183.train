@@ -1,0 +1,1 @@
+{english=can}{slot=O} {english=you}{slot=O} {english=list}{slot=O} {english=costs}{slot=O} {english=of}{slot=O} {english=denver}{slot=B-city_name} {english=rental}{slot=B-transport_type} {english=cars}{slot=I-transport_type}

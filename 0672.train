@@ -1,0 +1,1 @@
+{english=how}{slot=O} {english=many}{slot=O} {english=first}{slot=B-class_type} {english=class}{slot=I-class_type} {english=flights}{slot=O} {english=does}{slot=O} {english=delta}{slot=B-airline_name} {english=airlines}{slot=I-airline_name} {english=have}{slot=O}

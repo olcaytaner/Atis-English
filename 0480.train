@@ -1,0 +1,1 @@
+{english=are}{slot=O} {english=there}{slot=O} {english=any}{slot=O} {english=thrift}{slot=B-class_type} {english=economy}{slot=B-economy} {english=flights}{slot=O} {english=to}{slot=O} {english=san}{slot=B-toloc.city_name} {english=francisco}{slot=I-toloc.city_name} {english=from}{slot=O} {english=boston}{slot=B-fromloc.city_name}

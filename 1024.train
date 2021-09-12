@@ -1,0 +1,1 @@
+{english=please}{slot=O} {english=give}{slot=O} {english=me}{slot=O} {english=the}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=nashville}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=houston}{slot=B-toloc.city_name} {english=nonstop}{slot=B-flight_stop} {english=with}{slot=O} {english=dinner}{slot=B-meal_description} {english=served}{slot=O}

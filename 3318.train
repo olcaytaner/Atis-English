@@ -1,0 +1,1 @@
+{english=show}{slot=O} {english=me}{slot=O} {english=morning}{slot=B-depart_time.period_of_day} {english=flights}{slot=O} {english=from}{slot=O} {english=toronto}{slot=B-fromloc.city_name}

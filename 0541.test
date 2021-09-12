@@ -1,0 +1,1 @@
+{english=the}{slot=O} {english=flight}{slot=O} {english=will}{slot=O} {english=originate}{slot=O} {english=from}{slot=O} {english=boston}{slot=B-fromloc.city_name}

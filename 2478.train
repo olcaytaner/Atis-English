@@ -1,0 +1,1 @@
+{english=i'd}{slot=O} {english=like}{slot=O} {english=the}{slot=O} {english=first}{slot=B-flight_mod} {english=flight}{slot=O} {english=in}{slot=O} {english=the}{slot=O} {english=morning}{slot=B-depart_time.period_of_day} {english=from}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=washington}{slot=B-toloc.city_name}

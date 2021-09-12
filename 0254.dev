@@ -1,0 +1,1 @@
+{english=which}{slot=O} {english=airlines}{slot=O} {english=have}{slot=O} {english=nonstop}{slot=B-flight_stop} {english=flights}{slot=O} {english=from}{slot=O} {english=kansas}{slot=B-fromloc.city_name} {english=city}{slot=I-fromloc.city_name} {english=to}{slot=O} {english=chicago}{slot=B-toloc.city_name}

@@ -1,0 +1,1 @@
+{english=all}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=sfo}{slot=B-fromloc.airport_code} {english=to}{slot=O} {english=long}{slot=B-toloc.city_name} {english=beach}{slot=I-toloc.city_name}
