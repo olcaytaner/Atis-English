@@ -1,1 +1,1 @@
-{english=rental}{slot=B-transport_type} {english=cars}{slot=I-transport_type} {english=in}{slot=O} {english=washington}{slot=B-city_name} {english=dc}{slot=B-state_code}
+{english=rental}{universalDependency=2$NMOD}{slot=B-transport_type}{posTag=NNP} {english=cars}{universalDependency=0$ROOT}{slot=I-transport_type}{posTag=NNS} {english=in}{universalDependency=4$CASE}{slot=O}{posTag=IN} {english=washington}{universalDependency=2$NMOD}{slot=B-city_name}{posTag=NNP} {english=dc}{universalDependency=4$FLAT}{slot=B-state_code}

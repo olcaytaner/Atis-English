@@ -1,1 +1,1 @@
-{english=show}{slot=O} {english=me}{slot=O} {english=airports}{slot=O} {english=near}{slot=O} {english=washington}{slot=B-city_name} {english=dc}{slot=B-state_code}
+{english=show}{slot=O}{posTag=VBP} {english=me}{slot=O}{posTag=PRP} {english=airports}{slot=O}{posTag=NNP} {english=near}{slot=O}{posTag=JJ} {english=washington}{slot=B-city_name}{posTag=NNP} {english=dc}{slot=B-state_code}
