@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=types}{slot=O} {english=of}{slot=O} {english=meals}{slot=B-meal} {english=are}{slot=O} {english=available}{slot=O}
+{english=what}{universalDependency=2$DET}{slot=O}{posTag=WP} {english=types}{universalDependency=6$OBL}{slot=O}{posTag=NNS} {english=of}{universalDependency=4$CASE}{slot=O}{posTag=IN} {english=meals}{universalDependency=2$NMOD}{slot=B-meal}{posTag=NNS} {english=are}{universalDependency=6$AUX}{slot=O}{posTag=VBP} {english=available}{universalDependency=0$ROOT}{slot=O}{posTag=JJ}
