@@ -1,1 +1,1 @@
-{english=explain}{slot=O} {english=the}{slot=O} {english=restriction}{slot=O} {english=ap}{slot=B-restriction_code} {english=57}{slot=I-restriction_code}
+{english=explain}{universalDependency=0$ROOT}{slot=O} {english=the}{universalDependency=3$DET}{slot=O} {english=restriction}{universalDependency=1$OBJ}{slot=O} {english=ap}{universalDependency=3$APPOS}{slot=B-restriction_code} {english=57}{universalDependency=4$FLAT}{slot=I-restriction_code}
