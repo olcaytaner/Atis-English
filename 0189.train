@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=does}{slot=O} {english=ap57}{slot=B-restriction_code} {english=mean}{slot=O}
+{english=what}{universalDependency=4$OBJ}{slot=O} {english=does}{universalDependency=4$AUX}{slot=O} {english=ap57}{universalDependency=4$NSUBJ}{slot=B-restriction_code} {english=mean}{universalDependency=0$ROOT}{slot=O}
