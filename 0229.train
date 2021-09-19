@@ -1,1 +1,1 @@
-{english=list}{slot=O} {english=the}{slot=O} {english=cities}{slot=O} {english=from}{slot=O} {english=which}{slot=O} {english=northwest}{slot=B-airline_name} {english=flies}{slot=O}
+{english=list}{universalDependency=0$ROOT}{slot=O} {english=the}{universalDependency=3$DET}{slot=O} {english=cities}{universalDependency=1$OBJ}{slot=O} {english=from}{universalDependency=7$MARK}{slot=O} {english=which}{universalDependency=4$FIXED}{slot=O} {english=northwest}{universalDependency=7$NSUBJ}{slot=B-airline_name} {english=flies}{universalDependency=3$ACL:RELCL}{slot=O}

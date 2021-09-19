@@ -1,1 +1,1 @@
-{english=all}{slot=O} {english=flights}{slot=O} {english=and}{slot=O} {english=fares}{slot=O} {english=from}{slot=O} {english=dallas}{slot=B-fromloc.city_name}
+{english=all}{universalDependency=2$DET}{slot=O} {english=flights}{universalDependency=0$ROOT}{slot=O} {english=and}{universalDependency=4$CC}{slot=O} {english=fares}{universalDependency=2$CONJ}{slot=O} {english=from}{universalDependency=6$CASE}{slot=O} {english=dallas}{universalDependency=2$NMOD}{slot=B-fromloc.city_name}

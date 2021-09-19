@@ -1,1 +1,1 @@
-{english=flights}{slot=O} {english=from}{slot=O} {english=la}{slot=B-fromloc.airport_name} {english=guardia}{slot=I-fromloc.airport_name} {english=to}{slot=O} {english=jfk}{slot=B-toloc.airport_code}
+{english=flights}{universalDependency=0$ROOT}{slot=O} {english=from}{universalDependency=3$CASE}{slot=O} {english=la}{universalDependency=1$NMOD}{slot=B-fromloc.airport_name} {english=guardia}{universalDependency=3$FLAT}{slot=I-fromloc.airport_name} {english=to}{universalDependency=6$CASE}{slot=O} {english=jfk}{universalDependency=1$NMOD}{slot=B-toloc.airport_code}

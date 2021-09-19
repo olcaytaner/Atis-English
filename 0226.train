@@ -1,1 +1,1 @@
-{english=which}{slot=O} {english=cities}{slot=O} {english=does}{slot=O} {english=united}{slot=B-airline_name} {english=airlines}{slot=I-airline_name} {english=service}{slot=O}
+{english=which}{universalDependency=2$DET}{slot=O} {english=cities}{universalDependency=6$OBL}{slot=O} {english=does}{universalDependency=6$AUX}{slot=O} {english=united}{universalDependency=6$NSUBJ}{slot=B-airline_name} {english=airlines}{universalDependency=4$FLAT}{slot=I-airline_name} {english=service}{universalDependency=0$ROOT}{slot=O}

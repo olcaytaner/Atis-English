@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=time}{slot=O} {english=zone}{slot=O} {english=is}{slot=O} {english=denver}{slot=B-city_name} {english=in}{slot=O}
+{english=what}{universalDependency=2$DET}{slot=O} {english=time}{universalDependency=3$COMPOUND}{slot=O} {english=zone}{universalDependency=0$ROOT}{slot=O} {english=is}{universalDependency=3$COP}{slot=O} {english=denver}{universalDependency=3$NSUBJ}{slot=B-city_name} {english=in}{universalDependency=3$CASE}{slot=O}

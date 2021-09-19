@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=city}{slot=O} {english=is}{slot=O} {english=mco}{slot=B-airport_code}
+{english=what}{universalDependency=2$DET}{slot=O} {english=city}{universalDependency=4$NSUBJ}{slot=O} {english=is}{universalDependency=4$COP}{slot=O} {english=mco}{universalDependency=0$ROOT}{slot=B-airport_code}

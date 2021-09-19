@@ -1,1 +1,1 @@
-{english=where}{slot=O} {english=is}{slot=O} {english=lester}{slot=B-airport_name} {english=pearson}{slot=I-airport_name} {english=airport}{slot=I-airport_name}
+{english=where}{universalDependency=0$ROOT}{slot=O} {english=is}{universalDependency=1$COP}{slot=O} {english=lester}{universalDependency=1$NSUBJ}{slot=B-airport_name} {english=pearson}{universalDependency=3$FLAT}{slot=I-airport_name} {english=airport}{universalDependency=3$FLAT}{slot=I-airport_name}
