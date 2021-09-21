@@ -1,1 +1,1 @@
-{english=explain}{universalDependency=0$ROOT}{slot=O} {english=restriction}{universalDependency=3$COMPOUND}{slot=O} {english=ap}{universalDependency=1$OBJ}{slot=B-restriction_code} {english=please}{universalDependency=1$ADVMOD}{slot=O}
+{english=explain}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=restriction}{universalDependency=3$COMPOUND}{slot=O}{posTag=NN} {english=ap}{universalDependency=1$OBJ}{slot=B-restriction_code}{posTag=NNP} {english=please}{universalDependency=1$ADVMOD}{slot=O}{posTag=VB}

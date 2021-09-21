@@ -1,1 +1,1 @@
-{english=airports}{slot=O} {english=in}{slot=O} {english=new}{slot=B-city_name} {english=york}{slot=I-city_name}
+{english=airports}{universalDependency=0$ROOT}{slot=O}{posTag=NNS} {english=in}{universalDependency=3$CASE}{slot=O}{posTag=IN} {english=new}{universalDependency=1$NMOD}{slot=B-city_name}{posTag=JJ} {english=york}{universalDependency=3$FLAT}{slot=I-city_name}{posTag=NNP}

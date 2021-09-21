@@ -1,1 +1,1 @@
-{english=list}{slot=O} {english=the}{slot=O} {english=tower}{slot=B-airline_name} {english=air}{slot=I-airline_name} {english=flights}{slot=O} {english=on}{slot=O} {english=mondays}{slot=B-day_name}
+{english=list}{slot=O}{posTag=NN} {english=the}{slot=O}{posTag=DT} {english=tower}{slot=B-airline_name}{posTag=NNP} {english=air}{slot=I-airline_name}{posTag=NN} {english=flights}{slot=O}{posTag=NNS} {english=on}{slot=O}{posTag=IN} {english=mondays}{slot=B-day_name}{posTag=NNPS}

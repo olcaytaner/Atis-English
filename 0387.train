@@ -1,1 +1,1 @@
-{english=which}{slot=O} {english=airline}{slot=O} {english=has}{slot=O} {english=the}{slot=O} {english=most}{slot=B-mod} {english=business}{slot=B-class_type} {english=class}{slot=I-class_type} {english=flights}{slot=O}
+{english=which}{slot=O}{posTag=WDT} {english=airline}{slot=O}{posTag=NN} {english=has}{slot=O}{posTag=VBZ} {english=the}{slot=O}{posTag=DT} {english=most}{slot=B-mod}{posTag=JJS} {english=business}{slot=B-class_type}{posTag=NN} {english=class}{slot=I-class_type}{posTag=NN} {english=flights}{slot=O}{posTag=NNS}

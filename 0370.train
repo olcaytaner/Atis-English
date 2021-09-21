@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=airport}{slot=O} {english=is}{slot=O} {english=at}{slot=O} {english=tampa}{slot=B-city_name}
+{english=what}{universalDependency=2$DET}{slot=O}{posTag=WDT} {english=airport}{universalDependency=5$NSUBJ}{slot=O}{posTag=NN} {english=is}{universalDependency=5$COP}{slot=O}{posTag=AUX:VBZ} {english=at}{universalDependency=5$CASE}{slot=O}{posTag=IN} {english=tampa}{universalDependency=0$ROOT}{slot=B-city_name}{posTag=NNP}

@@ -1,1 +1,1 @@
-{english=list}{slot=O} {english=airports}{slot=O}
+{english=list}{universalDependency=0$ROOT}{slot=O}{posTag=NN} {english=airports}{universalDependency=1$OBJ}{slot=O}{posTag=NNS}

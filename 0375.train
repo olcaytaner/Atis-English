@@ -1,1 +1,1 @@
-{english=describe}{slot=O} {english=pittsburgh}{slot=B-airport_name} {english=airport}{slot=I-airport_name}
+{english=describe}{universalDependency=0$ROOT}{slot=O}{posTag=VBP} {english=pittsburgh}{universalDependency=1$OBJ}{slot=B-airport_name}{posTag=NNP} {english=airport}{universalDependency=2$FLAT}{slot=I-airport_name}{posTag=NN}
