@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=minneapolis}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=pittsburgh}{slot=B-toloc.city_name}
+{english=what}{slot=O}{posTag=WP} {english=flights}{slot=O}{posTag=NNS} {english=from}{slot=O}{posTag=IN} {english=minneapolis}{slot=B-fromloc.city_name}{posTag=NNS} {english=to}{slot=O}{posTag=TO} {english=pittsburgh}{slot=B-toloc.city_name}{posTag=NNP}
