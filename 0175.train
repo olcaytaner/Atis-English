@@ -1,1 +1,1 @@
-{english=rental}{universalDependency=2$COMPOUND}{slot=B-transport_type} {english=car}{universalDependency=0$ROOT}{slot=I-transport_type} {english=in}{universalDependency=4$CASE}{slot=O} {english=baltimore}{universalDependency=2$NMOD}{slot=B-city_name}
+{english=rental}{universalDependency=2$COMPOUND}{slot=B-transport_type}{posTag=NNP} {english=car}{universalDependency=0$ROOT}{slot=I-transport_type}{posTag=NN} {english=in}{universalDependency=4$CASE}{slot=O}{posTag=IN} {english=baltimore}{universalDependency=2$NMOD}{slot=B-city_name}{posTag=NNP}
