@@ -1,1 +1,1 @@
-{english=i'd}{slot=O} {english=like}{slot=O} {english=to}{slot=O} {english=fly}{slot=O} {english=from}{slot=O} {english=tampa}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=montreal}{slot=B-toloc.city_name}
+{english=i}{slot=O}{posTag=PRP} {english='d}{posTag=MD} {english=like}{slot=O}{posTag=IN} {english=to}{slot=O}{posTag=TO} {english=fly}{slot=O}{posTag=NN} {english=from}{slot=O}{posTag=IN} {english=tampa}{slot=B-fromloc.city_name}{posTag=NNP} {english=to}{slot=O}{posTag=TO} {english=montreal}{slot=B-toloc.city_name}{posTag=NNP}

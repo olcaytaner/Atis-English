@@ -1,1 +1,1 @@
-{english=when}{slot=O} {english=do}{slot=O} {english=planes}{slot=O} {english=leave}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=for}{slot=O}
+{english=when}{universalDependency=4$ADVMOD}{slot=O}{posTag=WRB} {english=do}{universalDependency=4$AUX}{slot=O}{posTag=AUX:VBP} {english=planes}{universalDependency=4$NSUBJ}{slot=O}{posTag=NNS} {english=leave}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=boston}{universalDependency=4$OBJ}{slot=B-fromloc.city_name}{posTag=NNP} {english=for}{universalDependency=4$COMPOUND:PRT}{slot=O}{posTag=IN}

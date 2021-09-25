@@ -1,1 +1,1 @@
-{english=list}{slot=O} {english=the}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=cleveland}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=memphis}{slot=B-toloc.city_name}
+{english=list}{slot=O}{posTag=NN} {english=the}{slot=O}{posTag=DT} {english=flights}{slot=O}{posTag=NNS} {english=from}{slot=O}{posTag=IN} {english=cleveland}{slot=B-fromloc.city_name}{posTag=NNP} {english=to}{slot=O}{posTag=TO} {english=memphis}{slot=B-toloc.city_name}{posTag=NNP}
