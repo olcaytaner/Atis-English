@@ -1,1 +1,1 @@
-{english=flight}{slot=O} {english=leaving}{slot=O} {english=chicago}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=nashville}{slot=B-toloc.city_name}
+{english=flight}{slot=O}{posTag=NN} {english=leaving}{slot=O}{posTag=VBG} {english=chicago}{slot=B-fromloc.city_name}{posTag=NNP} {english=to}{slot=O}{posTag=TO} {english=nashville}{slot=B-toloc.city_name}{posTag=NNP}

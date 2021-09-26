@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=flights}{slot=O} {english=depart}{slot=O} {english=from}{slot=O} {english=baltimore}{slot=B-fromloc.city_name}
+{english=what}{slot=O}{posTag=WP} {english=flights}{slot=O}{posTag=NNS} {english=depart}{slot=O}{posTag=VBP} {english=from}{slot=O}{posTag=IN} {english=baltimore}{slot=B-fromloc.city_name}{posTag=NNP}
