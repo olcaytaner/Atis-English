@@ -1,1 +1,1 @@
-{english=flights}{slot=O} {english=from}{slot=O} {english=atlanta}{slot=B-fromloc.city_name} {english=please}{slot=O}
+{english=flights}{universalDependency=0$ROOT}{slot=O}{posTag=NNS} {english=from}{universalDependency=3$CASE}{slot=O}{posTag=IN} {english=atlanta}{universalDependency=1$NMOD}{slot=B-fromloc.city_name}{posTag=NNP} {english=please}{universalDependency=1$DISCOURSE}{slot=O}{posTag=VB}

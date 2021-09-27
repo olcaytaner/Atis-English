@@ -1,1 +1,1 @@
-{english=flight}{slot=O}{posTag=NN} {english=leaving}{slot=O}{posTag=VBG} {english=chicago}{slot=B-fromloc.city_name}{posTag=NNP} {english=to}{slot=O}{posTag=TO} {english=nashville}{slot=B-toloc.city_name}{posTag=NNP}
+{english=flight}{universalDependency=0$ROOT}{slot=O}{posTag=NN} {english=leaving}{universalDependency=1$ACL:RELCL}{slot=O}{posTag=VBG} {english=chicago}{universalDependency=2$OBJ}{slot=B-fromloc.city_name}{posTag=NNP} {english=to}{universalDependency=5$CASE}{slot=O}{posTag=TO} {english=nashville}{universalDependency=2$OBL}{slot=B-toloc.city_name}{posTag=NNP}
