@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=limousine}{slot=B-transport_type} {english=service}{slot=O} {english=is}{slot=O} {english=in}{slot=O} {english=boston}{slot=B-city_name}
+{english=what}{universalDependency=2$DET}{slot=O}{posTag=WDT} {english=limousine}{universalDependency=3$COMPOUND}{slot=B-transport_type}{posTag=NN} {english=service}{universalDependency=4$NSUBJ}{slot=O}{posTag=NN} {english=is}{universalDependency=0$ROOT}{slot=O}{posTag=VBZ} {english=in}{universalDependency=6$CASE}{slot=O}{posTag=IN} {english=boston}{universalDependency=4$OBL}{slot=B-city_name}{posTag=NNP}

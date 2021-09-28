@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=limousine}{slot=B-transport_type} {english=service}{slot=O} {english=in}{slot=O} {english=toronto}{slot=B-city_name}
+{english=what}{universalDependency=2$DET}{slot=O}{posTag=WDT} {english=limousine}{universalDependency=3$COMPOUND}{slot=B-transport_type}{posTag=NN} {english=service}{universalDependency=0$ROOT}{slot=O}{posTag=NN} {english=in}{universalDependency=5$CASE}{slot=O}{posTag=IN} {english=toronto}{universalDependency=3$NMOD}{slot=B-city_name}{posTag=NNP}
