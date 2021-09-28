@@ -1,1 +1,1 @@
-{english=information}{slot=O} {english=on}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=denver}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=philadelphia}{slot=B-toloc.city_name}
+{english=information}{slot=O}{posTag=NN} {english=on}{slot=O}{posTag=IN} {english=flights}{slot=O}{posTag=NNS} {english=from}{slot=O}{posTag=IN} {english=denver}{slot=B-fromloc.city_name}{posTag=NNP} {english=to}{slot=O}{posTag=TO} {english=philadelphia}{slot=B-toloc.city_name}{posTag=NNP}
