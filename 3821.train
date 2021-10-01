@@ -1,1 +1,1 @@
-{english=looking}{slot=O} {english=for}{slot=O} {english=a}{slot=O} {english=flight}{slot=O} {english=to}{slot=O} {english=salt}{slot=B-toloc.city_name} {english=lake}{slot=I-toloc.city_name} {english=city}{slot=I-toloc.city_name}
+{english=looking}{slot=O}{posTag=VBG} {english=for}{slot=O}{posTag=IN} {english=a}{slot=O}{posTag=DT} {english=flight}{slot=O}{posTag=NN} {english=to}{slot=O}{posTag=TO} {english=salt}{slot=B-toloc.city_name}{posTag=NN} {english=lake}{slot=I-toloc.city_name}{posTag=NN} {english=city}{slot=I-toloc.city_name}{posTag=NN}
