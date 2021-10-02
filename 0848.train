@@ -1,1 +1,1 @@
-{english=ground}{slot=O} {english=transportation}{slot=O} {english=in}{slot=O} {english=las}{slot=B-city_name} {english=vegas}{slot=I-city_name}
+{english=ground}{universalDependency=2$COMPOUND}{slot=O}{posTag=NN} {english=transportation}{universalDependency=0$ROOT}{slot=O}{posTag=NN} {english=in}{universalDependency=4$CASE}{slot=O}{posTag=IN} {english=las}{universalDependency=2$NMOD}{slot=B-city_name}{posTag=NNP} {english=vegas}{universalDependency=4$FLAT}{slot=I-city_name}{posTag=NNP}
