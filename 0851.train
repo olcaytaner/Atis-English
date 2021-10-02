@@ -1,1 +1,1 @@
-{english=ground}{slot=O} {english=transportation}{slot=O} {english=in}{slot=O} {english=san}{slot=B-city_name} {english=jose}{slot=I-city_name}
+{english=ground}{slot=O}{posTag=NN} {english=transportation}{slot=O}{posTag=NNP} {english=in}{slot=O}{posTag=IN} {english=san}{slot=B-city_name}{posTag=NNP} {english=jose}{slot=I-city_name}{posTag=NNP}

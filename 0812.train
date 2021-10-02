@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=airlines}{slot=O} {english=service}{slot=O} {english=pittsburgh}{slot=B-airport_name} {english=airport}{slot=I-airport_name}
+{english=what}{universalDependency=2$DET}{slot=O}{posTag=WDT} {english=airlines}{universalDependency=3$NSUBJ}{slot=O}{posTag=NNS} {english=service}{universalDependency=0$ROOT}{slot=O}{posTag=NN} {english=pittsburgh}{universalDependency=3$OBL}{slot=B-airport_name}{posTag=NNP} {english=airport}{universalDependency=4$FLAT}{slot=I-airport_name}{posTag=NNP}
