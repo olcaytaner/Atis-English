@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=does}{slot=O} {english=fare}{slot=O} {english=code}{slot=O} {english=m}{slot=B-fare_basis_code} {english=mean}{slot=O}
+{english=what}{slot=O}{posTag=WP} {english=does}{slot=O}{posTag=AUX:VBZ} {english=fare}{slot=O}{posTag=NN} {english=code}{slot=O}{posTag=NN} {english=m}{slot=B-fare_basis_code}{posTag=NNP} {english=mean}{slot=O}{posTag=VBP}
