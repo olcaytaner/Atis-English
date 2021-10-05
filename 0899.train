@@ -1,1 +1,1 @@
-{english=what}{slot=O}{posTag=WP} {english=does}{slot=O}{posTag=VBZ} {english=m}{slot=B-fare_basis_code}{posTag=NNP} {english=mean}{slot=O}{posTag=VBP}
+{english=what}{universalDependency=4$XCOMP}{slot=O}{posTag=WP} {english=does}{universalDependency=4$AUX}{slot=O}{posTag=AUX:VBZ} {english=m}{universalDependency=4$NSUBJ}{slot=B-fare_basis_code}{posTag=NNP} {english=mean}{universalDependency=0$ROOT}{slot=O}{posTag=VBP}

@@ -1,1 +1,1 @@
-{english=does}{slot=O} {english=this}{slot=O} {english=flight}{slot=O} {english=serve}{slot=O} {english=dinner}{slot=B-meal_description}
+{english=does}{universalDependency=4$AUX}{slot=O}{posTag=AUX:VBZ} {english=this}{universalDependency=3$DET}{slot=O}{posTag=DT} {english=flight}{universalDependency=4$NSUBJ}{slot=O}{posTag=NN} {english=serve}{universalDependency=0$ROOT}{slot=O}{posTag=VBP} {english=dinner}{universalDependency=4$OBJ}{slot=B-meal_description}{posTag=NN}

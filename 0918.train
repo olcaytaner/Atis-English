@@ -1,1 +1,1 @@
-{english=what's}{slot=O} {english=fare}{slot=O} {english=code}{slot=O} {english=yn}{slot=B-fare_basis_code}
+{english=what}{universalDependency=0$ROOT}{slot=O}{posTag=WP} {english='s}{universalDependency=1$COP}{posTag=AUX:VBZ} {english=fare}{universalDependency=4$COMPOUND}{slot=O}{posTag=NN} {english=code}{universalDependency=1$NSUBJ}{slot=O}{posTag=NN} {english=yn}{universalDependency=4$NMOD}{slot=B-fare_basis_code}{posTag=NNP}
