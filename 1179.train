@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=planes}{slot=O} {english=does}{slot=O} {english=united}{slot=B-airline_name} {english=use}{slot=O}
+{english=what}{universalDependency=2$DET}{slot=O}{posTag=WDT} {english=planes}{universalDependency=5$OBJ}{slot=O}{posTag=NNS} {english=does}{universalDependency=5$AUX}{slot=O}{posTag=AUX:VBZ} {english=united}{universalDependency=5$NSUBJ}{slot=B-airline_name}{posTag=NNP} {english=use}{universalDependency=0$ROOT}{slot=O}{posTag=VB}
