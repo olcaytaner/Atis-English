@@ -1,1 +1,1 @@
-{english=flights}{slot=O} {english=from}{slot=O} {english=long}{slot=B-fromloc.city_name} {english=beach}{slot=I-fromloc.city_name} {english=to}{slot=O} {english=nashville}{slot=B-toloc.city_name}
+{english=flights}{slot=O}{posTag=NNS} {english=from}{slot=O}{posTag=IN} {english=long}{slot=B-fromloc.city_name}{posTag=JJ} {english=beach}{slot=I-fromloc.city_name}{posTag=NNP} {english=to}{slot=O}{posTag=TO} {english=nashville}{slot=B-toloc.city_name}{posTag=NNP}

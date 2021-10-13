@@ -1,1 +1,1 @@
-{english=flight}{slot=O} {english=information}{slot=O} {english=from}{slot=O} {english=san}{slot=B-fromloc.city_name} {english=francisco}{slot=I-fromloc.city_name} {english=to}{slot=O} {english=pittsburgh}{slot=B-toloc.city_name}
+{english=flight}{slot=O}{posTag=NN} {english=information}{slot=O}{posTag=NN} {english=from}{slot=O}{posTag=IN} {english=san}{slot=B-fromloc.city_name}{posTag=NNP} {english=francisco}{slot=I-fromloc.city_name}{posTag=NNP} {english=to}{slot=O}{posTag=TO} {english=pittsburgh}{slot=B-toloc.city_name}{posTag=NNP}

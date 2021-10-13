@@ -1,1 +1,1 @@
-{english=does}{slot=O} {english=northwest}{slot=B-airline_name} {english=fly}{slot=O} {english=into}{slot=O} {english=denver}{slot=B-toloc.city_name}
+{english=does}{universalDependency=3$AUX}{slot=O}{posTag=AUX:VBZ} {english=northwest}{universalDependency=3$NSUBJ}{slot=B-airline_name}{posTag=NN} {english=fly}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=into}{universalDependency=5$CASE}{slot=O}{posTag=IN} {english=denver}{universalDependency=3$OBL}{slot=B-toloc.city_name}{posTag=NNP}

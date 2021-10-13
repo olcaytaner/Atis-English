@@ -1,1 +1,1 @@
-{english=does}{slot=O} {english=midwest}{slot=B-airline_name} {english=express}{slot=O} {english=have}{slot=O} {english=any}{slot=O} {english=flights}{slot=O}
+{english=does}{universalDependency=4$AUX:Q}{slot=O}{posTag=VBZ} {english=midwest}{universalDependency=4$NSUBJ}{slot=B-airline_name}{posTag=NNP} {english=express}{universalDependency=2$FLAT}{slot=O}{posTag=VBP} {english=have}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=any}{universalDependency=6$DET}{slot=O}{posTag=DT} {english=flights}{universalDependency=4$OBJ}{slot=O}{posTag=NNS}
