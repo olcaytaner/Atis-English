@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=the}{slot=O} {english=abbreviation}{slot=O} {english=us}{slot=B-airline_code} {english=stand}{slot=O} {english=for}{slot=O}
+{english=what}{universalDependency=5$OBJ}{slot=O}{posTag=WP} {english=the}{universalDependency=4$DET}{slot=O}{posTag=DT} {english=abbreviation}{universalDependency=4$COMPOUND}{slot=O}{posTag=NN} {english=us}{universalDependency=5$NSUBJ}{slot=B-airline_code}{posTag=PRP} {english=stand}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=for}{universalDependency=5$COMPOUND:PRT}{slot=O}{posTag=IN}

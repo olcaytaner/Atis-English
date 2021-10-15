@@ -1,1 +1,1 @@
-{english=define}{slot=O} {english=airline}{slot=O} {english=hp}{slot=B-airline_code}
+{english=define}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=airline}{universalDependency=1$OBJ}{slot=O}{posTag=NN} {english=hp}{universalDependency=2$FLAT}{slot=B-airline_code}{posTag=NNP}

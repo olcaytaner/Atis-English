@@ -1,1 +1,1 @@
-{english=please}{slot=O} {english=list}{slot=O} {english=pm}{slot=B-depart_time.period_of_day} {english=flights}{slot=O} {english=from}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=pittsburgh}{slot=B-fromloc.city_name}
+{english=please}{slot=O}{posTag=UH} {english=list}{slot=O}{posTag=VB} {english=pm}{slot=B-depart_time.period_of_day}{posTag=NN} {english=flights}{slot=O}{posTag=NNS} {english=from}{slot=O}{posTag=IN} {english=boston}{slot=B-fromloc.city_name}{posTag=NNP} {english=pittsburgh}{slot=B-fromloc.city_name}{posTag=NNP}

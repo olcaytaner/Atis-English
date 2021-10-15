@@ -1,1 +1,1 @@
-{english=explain}{slot=O} {english=the}{slot=O} {english=fare}{slot=O} {english=codes}{slot=O}
+{english=explain}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=the}{universalDependency=4$DET}{slot=O}{posTag=DT} {english=fare}{universalDependency=4$COMPOUND}{slot=O}{posTag=NN} {english=codes}{universalDependency=1$OBJ}{slot=O}{posTag=NNS}

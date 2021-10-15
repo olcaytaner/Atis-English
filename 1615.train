@@ -1,1 +1,1 @@
-{english=which}{slot=O} {english=airline}{slot=O} {english=is}{slot=O} {english=kw}{slot=B-airline_code}
+{english=which}{universalDependency=2$DET}{slot=O}{posTag=WDT} {english=airline}{universalDependency=4$NSUBJ}{slot=O}{posTag=NN} {english=is}{universalDependency=4$COP}{slot=O}{posTag=AUX:VBZ} {english=kw}{universalDependency=0$ROOT}{slot=B-airline_code}{posTag=NN}
