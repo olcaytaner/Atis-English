@@ -1,1 +1,1 @@
-{english=american}{slot=B-airline_name}{posTag=JJ} {english=airlines}{slot=I-airline_name}{posTag=NNPS} {english=leaving}{slot=O}{posTag=VBG} {english=phoenix}{slot=B-fromloc.city_name}{posTag=NNP}
+{english=american}{universalDependency=0$ROOT}{slot=B-airline_name}{posTag=JJ} {english=airlines}{universalDependency=1$FLAT}{slot=I-airline_name}{posTag=NNPS} {english=leaving}{universalDependency=1$ACL:RELCL}{slot=O}{posTag=VBG} {english=phoenix}{universalDependency=3$OBJ}{slot=B-fromloc.city_name}{posTag=NNP}
