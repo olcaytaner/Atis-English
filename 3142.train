@@ -1,1 +1,1 @@
-{english=los}{slot=B-fromloc.city_name} {english=angeles}{slot=I-fromloc.city_name} {english=to}{slot=O} {english=pittsburgh}{slot=B-toloc.city_name} {english=afternoon}{slot=B-depart_time.period_of_day} {english=tuesday}{slot=B-depart_date.day_name}
+{english=los}{slot=B-fromloc.city_name}{posTag=NNP} {english=angeles}{slot=I-fromloc.city_name}{posTag=NNP} {english=to}{slot=O}{posTag=TO} {english=pittsburgh}{slot=B-toloc.city_name}{posTag=NNP} {english=afternoon}{slot=B-depart_time.period_of_day}{posTag=NN} {english=tuesday}{slot=B-depart_date.day_name}{posTag=NNP}

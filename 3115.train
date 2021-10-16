@@ -1,1 +1,1 @@
-{english=american}{slot=B-airline_name} {english=airlines}{slot=I-airline_name} {english=leaving}{slot=O} {english=phoenix}{slot=B-fromloc.city_name}
+{english=american}{slot=B-airline_name}{posTag=JJ} {english=airlines}{slot=I-airline_name}{posTag=NNPS} {english=leaving}{slot=O}{posTag=VBG} {english=phoenix}{slot=B-fromloc.city_name}{posTag=NNP}
