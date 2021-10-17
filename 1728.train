@@ -1,1 +1,1 @@
-{english=which}{slot=O} {english=airlines}{slot=O} {english=serve}{slot=O} {english=atlanta}{slot=B-city_name}
+{english=which}{universalDependency=2$DET}{slot=O}{posTag=WDT} {english=airlines}{universalDependency=3$NSUBJ}{slot=O}{posTag=NNP} {english=serve}{universalDependency=0$ROOT}{slot=O}{posTag=VBP} {english=atlanta}{universalDependency=3$OBL}{slot=B-city_name}{posTag=NNP}

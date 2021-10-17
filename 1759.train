@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=airlines}{slot=O} {english=flies}{slot=O} {english=out}{slot=O} {english=of}{slot=O} {english=atlanta}{slot=B-fromloc.city_name}
+{english=what}{universalDependency=2$DET}{slot=O}{posTag=WDT} {english=airlines}{universalDependency=3$NSUBJ}{slot=O}{posTag=NNP} {english=flies}{universalDependency=0$ROOT}{slot=O}{posTag=VBZ} {english=out}{universalDependency=6$CASE}{slot=O}{posTag=IN} {english=of}{universalDependency=6$CASE}{slot=O}{posTag=IN} {english=atlanta}{universalDependency=3$OBL}{slot=B-fromloc.city_name}{posTag=NNP}

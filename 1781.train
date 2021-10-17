@@ -1,1 +1,1 @@
-{english=is}{slot=O} {english=us}{slot=B-airline_name} {english=air}{slot=I-airline_name}
+{english=is}{universalDependency=2$COP}{slot=O}{posTag=AUX:VBZ} {english=us}{universalDependency=0$ROOT}{slot=B-airline_name}{posTag=NNP} {english=air}{universalDependency=2$FLAT}{slot=I-airline_name}{posTag=NNP}
