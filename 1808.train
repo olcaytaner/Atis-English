@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=airlines}{slot=O} {english=leave}{slot=O} {english=from}{slot=O} {english=washington}{slot=B-fromloc.city_name}
+{english=what}{universalDependency=2$DET}{slot=O}{posTag=WDT} {english=airlines}{universalDependency=3$NSUBJ}{slot=O}{posTag=NNP} {english=leave}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=from}{universalDependency=5$CASE}{slot=O}{posTag=IN} {english=washington}{universalDependency=3$OBL}{slot=B-fromloc.city_name}{posTag=NNP}

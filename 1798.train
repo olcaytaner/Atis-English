@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=airlines}{slot=O} {english=have}{slot=O} {english=business}{slot=B-class_type} {english=class}{slot=I-class_type}
+{english=what}{universalDependency=2$DET}{slot=O}{posTag=WDT} {english=airlines}{universalDependency=3$NSUBJ}{slot=O}{posTag=NNP} {english=have}{universalDependency=0$ROOT}{slot=O}{posTag=VBP} {english=business}{universalDependency=5$COMPOUND}{slot=B-class_type}{posTag=NN} {english=class}{universalDependency=3$OBJ}{slot=I-class_type}{posTag=NN}
