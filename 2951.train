@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=do}{slot=O} {english=these}{slot=O} {english=cost}{slot=O}
+{english=what}{slot=O}{posTag=WP} {english=do}{slot=O}{posTag=AUX:VBP} {english=these}{slot=O}{posTag=DT} {english=cost}{slot=O}{posTag=VB}

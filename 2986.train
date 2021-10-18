@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=are}{slot=O} {english=the}{slot=O} {english=classes}{slot=O} {english=of}{slot=O} {english=service}{slot=O} {english=on}{slot=O} {english=delta}{slot=B-airline_name} {english=airlines}{slot=I-airline_name}
+{english=what}{slot=O}{posTag=WP} {english=are}{slot=O}{posTag=AUX:VBP} {english=the}{slot=O}{posTag=DT} {english=classes}{slot=O}{posTag=NNS} {english=of}{slot=O}{posTag=IN} {english=service}{slot=O}{posTag=NN} {english=on}{slot=O}{posTag=IN} {english=delta}{slot=B-airline_name}{posTag=NN} {english=airlines}{slot=I-airline_name}{posTag=NNS}

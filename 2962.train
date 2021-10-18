@@ -1,1 +1,1 @@
-{english=display}{slot=O} {english=all}{slot=O} {english=fare}{slot=O} {english=codes}{slot=O}
+{english=display}{slot=O}{posTag=VB} {english=all}{slot=O}{posTag=DT} {english=fare}{slot=O}{posTag=NN} {english=codes}{slot=O}{posTag=NNS}
