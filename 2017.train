@@ -1,1 +1,1 @@
-{english=please}{slot=O} {english=list}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=in}{slot=O} {english=atlanta}{slot=B-city_name}
+{english=please}{universalDependency=2$DISCOURSE}{slot=O}{posTag=UH} {english=list}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=ground}{universalDependency=4$COMPOUND}{slot=O}{posTag=NN} {english=transportation}{universalDependency=2$OBJ}{slot=O}{posTag=NNP} {english=in}{universalDependency=6$CASE}{slot=O}{posTag=IN} {english=atlanta}{universalDependency=4$NMOD}{slot=B-city_name}{posTag=NNP}

@@ -1,1 +1,1 @@
-{english=ground}{slot=O} {english=transportation}{slot=O} {english=in}{slot=O} {english=oakland}{slot=B-city_name}
+{english=ground}{universalDependency=2$COMPOUND}{slot=O}{posTag=NN} {english=transportation}{universalDependency=0$ROOT}{slot=O}{posTag=NNP} {english=in}{universalDependency=4$CASE}{slot=O}{posTag=IN} {english=oakland}{universalDependency=2$NMOD}{slot=B-city_name}{posTag=NNP}

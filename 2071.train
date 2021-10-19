@@ -1,1 +1,1 @@
-{english=information}{slot=O} {english=on}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=in}{slot=O} {english=denver}{slot=B-city_name}
+{english=information}{universalDependency=0$ROOT}{slot=O}{posTag=NN} {english=on}{universalDependency=4$CASE}{slot=O}{posTag=IN} {english=ground}{universalDependency=4$COMPOUND}{slot=O}{posTag=NN} {english=transportation}{universalDependency=1$NMOD}{slot=O}{posTag=NNP} {english=in}{universalDependency=6$CASE}{slot=O}{posTag=IN} {english=denver}{universalDependency=4$NMOD}{slot=B-city_name}{posTag=NNP}

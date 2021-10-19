@@ -1,1 +1,1 @@
-{english=does}{slot=O} {english=midwest}{slot=B-airline_name} {english=express}{slot=O} {english=serve}{slot=O} {english=nashville}{slot=B-city_name}
+{english=does}{universalDependency=4$AUX}{slot=O}{posTag=AUX:VBZ} {english=midwest}{universalDependency=4$NSUBJ}{slot=B-airline_name}{posTag=NNP} {english=express}{universalDependency=2$FLAT}{slot=O}{posTag=NNP} {english=serve}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=nashville}{universalDependency=4$OBL}{slot=B-city_name}{posTag=NNP}

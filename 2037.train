@@ -1,1 +1,1 @@
-{english=atlanta}{slot=B-city_name} {english=ground}{slot=O} {english=transportation}{slot=O}
+{english=atlanta}{universalDependency=3$COMPOUND}{slot=B-city_name}{posTag=NNP} {english=ground}{universalDependency=3$COMPOUND}{slot=O}{posTag=NN} {english=transportation}{universalDependency=0$ROOT}{slot=O}{posTag=NN}
