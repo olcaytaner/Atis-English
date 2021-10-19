@@ -1,1 +1,1 @@
-{english=what}{slot=O}{posTag=WP} {english=do}{slot=O}{posTag=AUX:VBP} {english=these}{slot=O}{posTag=DT} {english=cost}{slot=O}{posTag=VB}
+{english=what}{universalDependency=4$OBJ}{slot=O}{posTag=WP} {english=do}{universalDependency=4$AUX}{slot=O}{posTag=AUX:VBP} {english=these}{universalDependency=4$NSUBJ}{slot=O}{posTag=DT} {english=cost}{universalDependency=0$ROOT}{slot=O}{posTag=VB}
