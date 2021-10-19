@@ -1,1 +1,1 @@
-{english=flights}{slot=O} {english=from}{slot=O} {english=washington}{slot=B-fromloc.city_name} {english=august}{slot=B-depart_date.month_name} {english=second}{slot=B-depart_date.day_number}
+{english=flights}{slot=O}{posTag=NNS} {english=from}{slot=O}{posTag=IN} {english=washington}{slot=B-fromloc.city_name}{posTag=NNP} {english=august}{slot=B-depart_date.month_name}{posTag=NNP} {english=second}{slot=B-depart_date.day_number}{posTag=JJ}

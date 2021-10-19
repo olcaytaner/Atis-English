@@ -1,1 +1,1 @@
-{english=all}{slot=O} {english=fares}{slot=O} {english=and}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=philadelphia}{slot=B-fromloc.city_name}
+{english=all}{slot=O}{posTag=DT} {english=fares}{slot=O}{posTag=NNS} {english=and}{slot=O}{posTag=CC} {english=flights}{slot=O}{posTag=NNS} {english=from}{slot=O}{posTag=IN} {english=philadelphia}{slot=B-fromloc.city_name}{posTag=NNP}
