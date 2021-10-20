@@ -1,1 +1,1 @@
-{english=one}{slot=B-round_trip} {english=way}{slot=I-round_trip}
+{english=one}{slot=B-round_trip}{posTag=CD} {english=way}{slot=I-round_trip}{posTag=NN}
