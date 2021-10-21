@@ -1,1 +1,1 @@
-{english=united}{slot=B-airline_name} {english=airlines}{slot=I-airline_name} {english=stopping}{slot=O} {english=in}{slot=O} {english=denver}{slot=B-stoploc.city_name}
+{english=united}{universalDependency=0$ROOT}{slot=B-airline_name}{posTag=NNP} {english=airlines}{universalDependency=1$FLAT}{slot=I-airline_name}{posTag=NNP} {english=stopping}{universalDependency=1$ACL:RELCL}{slot=O}{posTag=NN} {english=in}{universalDependency=5$CASE}{slot=O}{posTag=IN} {english=denver}{universalDependency=3$OBL}{slot=B-stoploc.city_name}{posTag=NNP}
