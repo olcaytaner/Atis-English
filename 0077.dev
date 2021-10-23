@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=is}{slot=O} {english=the}{slot=O} {english=seating}{slot=O} {english=capacity}{slot=O} {english=of}{slot=O} {english=a}{slot=O} {english=757}{slot=B-aircraft_code}
+{english=what}{slot=O}{posTag=WP} {english=is}{slot=O}{posTag=AUX:VBZ} {english=the}{slot=O}{posTag=DT} {english=seating}{slot=O}{posTag=NN} {english=capacity}{slot=O}{posTag=NN} {english=of}{slot=O}{posTag=IN} {english=a}{slot=O}{posTag=DT} {english=757}{slot=B-aircraft_code}{posTag=NNP}
