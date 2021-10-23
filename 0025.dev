@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=does}{slot=O} {english=ap}{slot=B-restriction_code} {english=57}{slot=I-restriction_code} {english=mean}{slot=O}
+{english=what}{slot=O}{posTag=WP} {english=does}{slot=O}{posTag=AUX:VBZ} {english=ap}{slot=B-restriction_code}{posTag=NNP} {english=57}{slot=I-restriction_code}{posTag=CD} {english=mean}{slot=O}{posTag=VB}

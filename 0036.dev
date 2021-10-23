@@ -1,1 +1,1 @@
-{english=rental}{slot=B-transport_type} {english=cars}{slot=I-transport_type} {english=in}{slot=O} {english=boston}{slot=B-city_name}
+{english=rental}{slot=B-transport_type}{posTag=JJ} {english=cars}{slot=I-transport_type}{posTag=NNS} {english=in}{slot=O}{posTag=IN} {english=boston}{slot=B-city_name}{posTag=NNP}

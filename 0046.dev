@@ -1,1 +1,1 @@
-{english=list}{slot=O} {english=limousine}{slot=B-transport_type} {english=rates}{slot=O} {english=for}{slot=O} {english=the}{slot=O} {english=city}{slot=B-city_name} {english=of}{slot=I-city_name} {english=boston}{slot=I-city_name}
+{english=list}{slot=O}{posTag=NN} {english=limousine}{slot=B-transport_type}{posTag=NN} {english=rates}{slot=O}{posTag=NNS} {english=for}{slot=O}{posTag=IN} {english=the}{slot=O}{posTag=DT} {english=city}{slot=B-city_name}{posTag=NN} {english=of}{slot=I-city_name}{posTag=IN} {english=boston}{slot=I-city_name}{posTag=NNP}

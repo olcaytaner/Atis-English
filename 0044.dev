@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=cities}{slot=O} {english=does}{slot=O} {english=northwest}{slot=B-airline_name} {english=fly}{slot=O} {english=out}{slot=O} {english=of}{slot=O}
+{english=what}{slot=O}{posTag=WDT} {english=cities}{slot=O}{posTag=NNS} {english=does}{slot=O}{posTag=AUX:VBZ} {english=northwest}{slot=B-airline_name}{posTag=NNP} {english=fly}{slot=O}{posTag=VB} {english=out}{slot=O}{posTag=IN} {english=of}{slot=O}{posTag=IN}
