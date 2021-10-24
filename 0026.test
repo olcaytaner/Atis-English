@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=is}{slot=O} {english=restriction}{slot=O} {english=ap}{slot=B-restriction_code} {english=55}{slot=I-restriction_code}
+{english=what}{universalDependency=0$ROOT}{slot=O}{posTag=WP} {english=is}{universalDependency=1$COP}{slot=O}{posTag=AUX:VBZ} {english=restriction}{universalDependency=4$COMPOUND}{slot=O}{posTag=NN} {english=ap}{universalDependency=1$NSUBJ}{slot=B-restriction_code}{posTag=NNP} {english=55}{universalDependency=4$FLAT}{slot=I-restriction_code}{posTag=CD}

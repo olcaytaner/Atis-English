@@ -1,1 +1,1 @@
-{english=what}{slot=O}{posTag=WP} {english=is}{slot=O}{posTag=AUX:VBZ} {english=meal}{slot=O}{posTag=NN} {english=code}{slot=O}{posTag=NN} {english=sb}{slot=B-meal_code}{posTag=NNP}
+{english=what}{universalDependency=0$ROOT}{slot=O}{posTag=WP} {english=is}{universalDependency=1$COP}{slot=O}{posTag=AUX:VBZ} {english=meal}{universalDependency=4$COMPOUND}{slot=O}{posTag=NN} {english=code}{universalDependency=1$NSUBJ}{slot=O}{posTag=NN} {english=sb}{universalDependency=4$APPOS}{slot=B-meal_code}{posTag=NNP}

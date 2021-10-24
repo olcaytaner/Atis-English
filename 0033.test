@@ -1,1 +1,1 @@
-{english=from}{slot=O} {english=sfo}{slot=B-fromloc.airport_code} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name}
+{english=from}{universalDependency=2$CASE}{slot=O}{posTag=IN} {english=sfo}{universalDependency=0$ROOT}{slot=B-fromloc.airport_code}{posTag=NNP} {english=to}{universalDependency=4$CASE}{slot=O}{posTag=TO} {english=denver}{universalDependency=2$NMOD}{slot=B-toloc.city_name}{posTag=NNP}

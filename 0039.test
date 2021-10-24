@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=does}{slot=O} {english=the}{slot=O} {english=restriction}{slot=O} {english=ap58}{slot=B-restriction_code} {english=mean}{slot=O}
+{english=what}{universalDependency=6$OBJ}{slot=O}{posTag=WP} {english=does}{universalDependency=6$AUX}{slot=O}{posTag=AUX:VBZ} {english=the}{universalDependency=5$DET}{slot=O}{posTag=DT} {english=restriction}{universalDependency=5$COMPOUND}{slot=O}{posTag=NN} {english=ap58}{universalDependency=6$NSUBJ}{slot=B-restriction_code}{posTag=NNP} {english=mean}{universalDependency=0$ROOT}{slot=O}{posTag=VB}

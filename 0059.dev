@@ -1,1 +1,1 @@
-{english=ground}{slot=O}{posTag=NN} {english=transportation}{slot=O}{posTag=NNP} {english=atl}{slot=B-airport_code}{posTag=NNP} {english=to}{slot=O}{posTag=TO} {english=atlanta}{slot=B-toloc.city_name}{posTag=NNP}
+{english=ground}{universalDependency=2$COMPOUND}{slot=O}{posTag=NN} {english=transportation}{universalDependency=0$ROOT}{slot=O}{posTag=NNP} {english=atl}{universalDependency=2$NMOD}{slot=B-airport_code}{posTag=NNP} {english=to}{universalDependency=5$CASE}{slot=O}{posTag=TO} {english=atlanta}{universalDependency=3$NMOD}{slot=B-toloc.city_name}{posTag=NNP}

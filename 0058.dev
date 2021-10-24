@@ -1,1 +1,1 @@
-{english=what}{slot=O}{posTag=WP} {english=does}{slot=O}{posTag=VBZ} {english=ewr}{slot=B-airport_code}{posTag=NNP} {english=stand}{slot=O}{posTag=NN} {english=for}{slot=O}{posTag=IN}
+{english=what}{universalDependency=4$XCOMP}{slot=O}{posTag=WP} {english=does}{universalDependency=4$AUX}{slot=O}{posTag=AUX:VBZ} {english=ewr}{universalDependency=4$NSUBJ}{slot=B-airport_code}{posTag=NNP} {english=stand}{universalDependency=0$ROOT}{slot=O}{posTag=NN} {english=for}{universalDependency=4$COMPOUND:PRT}{slot=O}{posTag=IN}

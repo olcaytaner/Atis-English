@@ -1,1 +1,1 @@
-{english=explain}{slot=O} {english=meal}{slot=B-meal} {english=codes}{slot=B-meal_code} {english=sd}{slot=B-meal_code} {english=d}{slot=I-meal_code}
+{english=explain}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=meal}{universalDependency=3$COMPOUND}{slot=B-meal}{posTag=NN} {english=codes}{universalDependency=1$OBJ}{slot=B-meal_code}{posTag=NNS} {english=sd}{universalDependency=3$NMOD}{slot=B-meal_code}{posTag=NNP} {english=d}{universalDependency=4$FLAT}{slot=I-meal_code}{posTag=SYM}
