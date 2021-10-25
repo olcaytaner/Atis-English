@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=is}{slot=O} {english=tpa}{slot=B-airport_code}
+{english=what}{universalDependency=0$ROOT}{slot=O}{posTag=WP} {english=is}{universalDependency=1$COP}{slot=O}{posTag=AUX:VBZ} {english=tpa}{universalDependency=1$NSUBJ}{slot=B-airport_code}{posTag=NNP}

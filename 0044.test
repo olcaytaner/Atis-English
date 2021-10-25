@@ -1,1 +1,1 @@
-{english=is}{slot=O}{posTag=VBZ} {english=bwi}{slot=B-airport_code}{posTag=NNP} {english=washington}{slot=B-city_name}{posTag=NNP}
+{english=is}{universalDependency=0$ROOT}{slot=O}{posTag=VBZ} {english=bwi}{universalDependency=1$NSUBJ}{slot=B-airport_code}{posTag=NNP} {english=washington}{universalDependency=2$FLAT}{slot=B-city_name}{posTag=NNP}

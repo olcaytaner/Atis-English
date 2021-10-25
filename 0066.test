@@ -1,1 +1,1 @@
-{english=houston}{slot=B-city_name} {english=airports}{slot=O}
+{english=houston}{universalDependency=2$COMPOUND}{slot=B-city_name}{posTag=NNP} {english=airports}{universalDependency=0$ROOT}{slot=O}{posTag=NNS}

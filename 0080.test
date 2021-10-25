@@ -1,1 +1,1 @@
-{english=how}{slot=O} {english=many}{slot=O} {english=seats}{slot=O} {english=in}{slot=O} {english=a}{slot=O} {english=100}{slot=B-aircraft_code}
+{english=how}{universalDependency=2$ADVMOD}{slot=O}{posTag=WRB} {english=many}{universalDependency=3$AMOD}{slot=O}{posTag=JJ} {english=seats}{universalDependency=0$ROOT}{slot=O}{posTag=NNS} {english=in}{universalDependency=6$CASE}{slot=O}{posTag=IN} {english=a}{universalDependency=6$DET}{slot=O}{posTag=DT} {english=100}{universalDependency=3$NMOD}{slot=B-aircraft_code}{posTag=NNP}
