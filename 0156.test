@@ -1,1 +1,1 @@
-{english=what}{slot=O}{posTag=WP} {english=is}{slot=O}{posTag=AUX:VBZ} {english=a}{slot=O}{posTag=DT} {english=d9s}{slot=B-aircraft_code}{posTag=NNP}
+{english=what}{universalDependency=0$ROOT}{slot=O}{posTag=WP} {english=is}{universalDependency=1$COP}{slot=O}{posTag=AUX:VBZ} {english=a}{universalDependency=4$DET}{slot=O}{posTag=DT} {english=d9s}{universalDependency=1$NSUBJ}{slot=B-aircraft_code}{posTag=NNP}

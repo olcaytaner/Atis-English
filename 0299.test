@@ -1,1 +1,1 @@
-{english=what's}{slot=O} {english=the}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=like}{slot=O} {english=at}{slot=O} {english=pittsburgh}{slot=B-city_name}
+{english=what}{slot=O}{posTag=WP} {english='s}{posTag=AUX:VBZ} {english=the}{slot=O}{posTag=DT} {english=ground}{slot=O}{posTag=NN} {english=transportation}{slot=O}{posTag=NN} {english=like}{slot=O}{posTag=IN} {english=at}{slot=O}{posTag=IN} {english=pittsburgh}{slot=B-city_name}{posTag=NNP}

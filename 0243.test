@@ -1,1 +1,1 @@
-{english=airline}{slot=O} {english=that}{slot=O} {english=stands}{slot=O} {english=for}{slot=O} {english=dl}{slot=B-airline_code}
+{english=airline}{slot=O}{posTag=NN} {english=that}{slot=O}{posTag=DT} {english=stands}{slot=O}{posTag=VBZ} {english=for}{slot=O}{posTag=IN} {english=dl}{slot=B-airline_code}{posTag=NNP}

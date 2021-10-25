@@ -1,1 +1,1 @@
-{english=show}{slot=O} {english=me}{slot=O} {english=dallas}{slot=B-city_name} {english=ground}{slot=O} {english=transport}{slot=O}
+{english=show}{slot=O}{posTag=VB} {english=me}{slot=O}{posTag=PRP} {english=dallas}{slot=B-city_name}{posTag=NNP} {english=ground}{slot=O}{posTag=NN} {english=transport}{slot=O}{posTag=NNP}

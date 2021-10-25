@@ -1,1 +1,1 @@
-{english=define}{slot=O} {english=airline}{slot=O} {english=us}{slot=B-airline_code}
+{english=define}{slot=O}{posTag=VB} {english=airline}{slot=O}{posTag=NN} {english=us}{slot=B-airline_code}{posTag=PRP}

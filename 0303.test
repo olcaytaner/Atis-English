@@ -1,1 +1,1 @@
-{english=ground}{slot=O} {english=transport}{slot=O} {english=phoenix}{slot=B-city_name}
+{english=ground}{slot=O}{posTag=NN} {english=transport}{slot=O}{posTag=NNP} {english=phoenix}{slot=B-city_name}{posTag=NNP}
