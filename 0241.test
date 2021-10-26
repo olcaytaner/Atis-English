@@ -1,1 +1,1 @@
-{english=code}{slot=O}{posTag=NNP} {english=ff}{slot=B-airline_code}{posTag=NNP}
+{english=code}{universalDependency=2$COMPOUND}{slot=O}{posTag=NNP} {english=ff}{universalDependency=0$ROOT}{slot=B-airline_code}{posTag=NNP}

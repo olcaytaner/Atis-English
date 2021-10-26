@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=is}{slot=O} {english=airline}{slot=O} {english=nw}{slot=B-airline_code}
+{english=what}{slot=O}{posTag=WP} {english=is}{slot=O}{posTag=AUX:VBZ} {english=airline}{slot=O}{posTag=NN} {english=nw}{slot=B-airline_code}{posTag=NNP}

@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=can}{slot=O} {english=i}{slot=O} {english=take}{slot=O} {english=into}{slot=O} {english=boston}{slot=B-city_name}
+{english=what}{slot=O}{posTag=WDT} {english=ground}{slot=O}{posTag=NN} {english=transportation}{slot=O}{posTag=NN} {english=can}{slot=O}{posTag=MD} {english=i}{slot=O}{posTag=PRP} {english=take}{slot=O}{posTag=VB} {english=into}{slot=O}{posTag=IN} {english=boston}{slot=B-city_name}{posTag=NNP}

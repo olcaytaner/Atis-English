@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=ground}{slot=O} {english=transport}{slot=O} {english=is}{slot=O} {english=available}{slot=O} {english=in}{slot=O} {english=charlotte}{slot=B-city_name}
+{english=what}{slot=O}{posTag=WDT} {english=ground}{slot=O}{posTag=NN} {english=transport}{slot=O}{posTag=NN} {english=is}{slot=O}{posTag=AUX:VBZ} {english=available}{slot=O}{posTag=JJ} {english=in}{slot=O}{posTag=IN} {english=charlotte}{slot=B-city_name}{posTag=NNP}

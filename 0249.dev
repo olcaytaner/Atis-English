@@ -1,1 +1,1 @@
-{english=list}{slot=O} {english=the}{slot=O} {english=airlines}{slot=O} {english=with}{slot=O} {english=flights}{slot=O} {english=to}{slot=O} {english=or}{slot=O} {english=from}{slot=O} {english=denver}{slot=B-city_name}
+{english=list}{slot=O}{posTag=VB} {english=the}{slot=O}{posTag=DT} {english=airlines}{slot=O}{posTag=NNPS} {english=with}{slot=O}{posTag=IN} {english=flights}{slot=O}{posTag=NNS} {english=to}{slot=O}{posTag=TO} {english=or}{slot=O}{posTag=CC} {english=from}{slot=O}{posTag=IN} {english=denver}{slot=B-city_name}{posTag=NNP}

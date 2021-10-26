@@ -1,1 +1,1 @@
-{english=please}{slot=O} {english=list}{slot=O} {english=available}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=in}{slot=O} {english=pittsburgh}{slot=B-city_name}
+{english=please}{slot=O}{posTag=UH} {english=list}{slot=O}{posTag=VB} {english=available}{slot=O}{posTag=JJ} {english=ground}{slot=O}{posTag=NN} {english=transportation}{slot=O}{posTag=NN} {english=in}{slot=O}{posTag=IN} {english=pittsburgh}{slot=B-city_name}{posTag=NNP}

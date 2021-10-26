@@ -1,1 +1,1 @@
-{english=tell}{slot=O} {english=me}{slot=O} {english=about}{slot=O} {english=ground}{slot=O} {english=transportation}{slot=O} {english=at}{slot=O} {english=toronto}{slot=B-city_name}
+{english=tell}{slot=O}{posTag=VB} {english=me}{slot=O}{posTag=PRP} {english=about}{slot=O}{posTag=IN} {english=ground}{slot=O}{posTag=NN} {english=transportation}{slot=O}{posTag=NN} {english=at}{slot=O}{posTag=IN} {english=toronto}{slot=B-city_name}{posTag=NNP}

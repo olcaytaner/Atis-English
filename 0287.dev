@@ -1,1 +1,1 @@
-{english=does}{slot=O} {english=midwest}{slot=B-airline_name} {english=express}{slot=O} {english=serve}{slot=O} {english=baltimore}{slot=B-city_name}
+{english=does}{slot=O}{posTag=AUX:VBZ} {english=midwest}{slot=B-airline_name}{posTag=NNP} {english=express}{slot=O}{posTag=VBP} {english=serve}{slot=O}{posTag=VB} {english=baltimore}{slot=B-city_name}{posTag=NNP}

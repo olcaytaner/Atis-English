@@ -1,1 +1,1 @@
-{english=which}{slot=O} {english=airline}{slot=O} {english=serves}{slot=O} {english=denver}{slot=B-city_name} {english=pittsburgh}{slot=B-city_name} {english=and}{slot=O} {english=atlanta}{slot=B-city_name}
+{english=which}{slot=O}{posTag=WDT} {english=airline}{slot=O}{posTag=NN} {english=serves}{slot=O}{posTag=VBZ} {english=denver}{slot=B-city_name}{posTag=NNP} {english=pittsburgh}{slot=B-city_name}{posTag=NNP} {english=and}{slot=O}{posTag=CC} {english=atlanta}{slot=B-city_name}{posTag=NNP}
