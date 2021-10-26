@@ -1,1 +1,1 @@
-{english=list}{slot=O} {english=type}{slot=O} {english=of}{slot=O} {english=aircraft}{slot=O} {english=for}{slot=O} {english=all}{slot=O} {english=flights}{slot=O} {english=from}{slot=O} {english=charlotte}{slot=B-fromloc.city_name}
+{english=list}{slot=O}{posTag=VB} {english=type}{slot=O}{posTag=NN} {english=of}{slot=O}{posTag=IN} {english=aircraft}{slot=O}{posTag=NN} {english=for}{slot=O}{posTag=IN} {english=all}{slot=O}{posTag=DT} {english=flights}{slot=O}{posTag=NNS} {english=from}{slot=O}{posTag=IN} {english=charlotte}{slot=B-fromloc.city_name}{posTag=NNP}

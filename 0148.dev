@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=type}{slot=O} {english=of}{slot=O} {english=airplane}{slot=O} {english=is}{slot=O} {english=an}{slot=O} {english=m80}{slot=B-aircraft_code}
+{english=what}{slot=O}{posTag=WDT} {english=type}{slot=O}{posTag=NN} {english=of}{slot=O}{posTag=IN} {english=airplane}{slot=O}{posTag=NN} {english=is}{slot=O}{posTag=AUX:VBZ} {english=an}{slot=O}{posTag=DT} {english=m80}{slot=B-aircraft_code}{posTag=NNP}

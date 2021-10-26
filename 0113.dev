@@ -1,1 +1,1 @@
-{english=i}{slot=O} {english=will}{slot=O} {english=need}{slot=O} {english=a}{slot=O} {english=car}{slot=B-transport_type} {english=at}{slot=O} {english=new}{slot=B-city_name} {english=york}{slot=I-city_name}
+{english=i}{slot=O}{posTag=PRP} {english=will}{slot=O}{posTag=MD} {english=need}{slot=O}{posTag=VB} {english=a}{slot=O}{posTag=DT} {english=car}{slot=B-transport_type}{posTag=NN} {english=at}{slot=O}{posTag=IN} {english=new}{slot=B-city_name}{posTag=JJ} {english=york}{slot=I-city_name}{posTag=NNP}
