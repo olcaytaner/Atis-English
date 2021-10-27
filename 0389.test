@@ -1,1 +1,1 @@
-{english=hi}{slot=O} {english=i}{slot=O} {english=want}{slot=O} {english=a}{slot=O} {english=round}{slot=B-round_trip} {english=trip}{slot=I-round_trip} {english=ticket}{slot=O} {english=to}{slot=O} {english=dallas}{slot=B-toloc.city_name}
+{english=hi}{slot=O}{posTag=UH} {english=i}{slot=O}{posTag=PRP} {english=want}{slot=O}{posTag=VBP} {english=a}{slot=O}{posTag=DT} {english=round}{slot=B-round_trip}{posTag=NN} {english=trip}{slot=I-round_trip}{posTag=NN} {english=ticket}{slot=O}{posTag=NN} {english=to}{slot=O}{posTag=TO} {english=dallas}{slot=B-toloc.city_name}{posTag=NNP}

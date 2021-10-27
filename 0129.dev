@@ -1,1 +1,1 @@
-{english=ground}{slot=O}{posTag=NN} {english=transportation}{slot=O}{posTag=NN} {english=san}{slot=B-city_name}{posTag=NNP} {english=francisco}{slot=I-city_name}{posTag=NNP}
+{english=ground}{universalDependency=2$COMPOUND}{slot=O}{posTag=NN} {english=transportation}{universalDependency=0$ROOT}{slot=O}{posTag=NN} {english=san}{universalDependency=2$LIST}{slot=B-city_name}{posTag=NNP} {english=francisco}{universalDependency=3$FLAT}{slot=I-city_name}{posTag=NNP}

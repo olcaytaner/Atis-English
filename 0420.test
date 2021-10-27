@@ -1,1 +1,1 @@
-{english=give}{slot=O} {english=me}{slot=O} {english=fares}{slot=O} {english=from}{slot=O} {english=atlanta}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=baltimore}{slot=B-toloc.city_name}
+{english=give}{slot=O}{posTag=VB} {english=me}{slot=O}{posTag=PRP} {english=fares}{slot=O}{posTag=NNS} {english=from}{slot=O}{posTag=IN} {english=atlanta}{slot=B-fromloc.city_name}{posTag=NNP} {english=to}{slot=O}{posTag=TO} {english=baltimore}{slot=B-toloc.city_name}{posTag=NNP}

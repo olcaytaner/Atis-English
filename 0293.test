@@ -1,1 +1,1 @@
-{english=show}{slot=O}{posTag=VB} {english=me}{slot=O}{posTag=PRP} {english=dallas}{slot=B-city_name}{posTag=NNP} {english=ground}{slot=O}{posTag=NN} {english=transport}{slot=O}{posTag=NNP}
+{english=show}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=me}{universalDependency=1$IOBJ}{slot=O}{posTag=PRP} {english=dallas}{universalDependency=1$OBJ}{slot=B-city_name}{posTag=NNP} {english=ground}{universalDependency=5$COMPOUND}{slot=O}{posTag=NN} {english=transport}{universalDependency=3$NMOD}{slot=O}{posTag=NNP}

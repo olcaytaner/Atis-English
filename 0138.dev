@@ -1,1 +1,1 @@
-{english=what}{slot=O}{posTag=WP} {english=is}{slot=O}{posTag=AUX:VBZ} {english=booking}{slot=O}{posTag=NN} {english=class}{slot=O}{posTag=NN} {english=c}{slot=B-fare_basis_code}{posTag=$}
+{english=what}{universalDependency=0$ROOT}{slot=O}{posTag=WP} {english=is}{universalDependency=1$COP}{slot=O}{posTag=AUX:VBZ} {english=booking}{universalDependency=4$COMPOUND}{slot=O}{posTag=NN} {english=class}{universalDependency=1$NSUBJ}{slot=O}{posTag=NN} {english=c}{universalDependency=4$APPOS}{slot=B-fare_basis_code}{posTag=$}

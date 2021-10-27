@@ -1,1 +1,1 @@
-{english=ground}{slot=O}{posTag=NN} {english=transport}{slot=O}{posTag=NNP} {english=phoenix}{slot=B-city_name}{posTag=NNP}
+{english=ground}{universalDependency=2$COMPOUND}{slot=O}{posTag=NN} {english=transport}{universalDependency=0$ROOT}{slot=O}{posTag=NNP} {english=phoenix}{universalDependency=2$NMOD}{slot=B-city_name}{posTag=NNP}
