@@ -1,1 +1,1 @@
-{english=names}{universalDependency=0$ROOT}{slot=O}{posTag=NNS} {english=of}{universalDependency=3$CASE}{slot=O}{posTag=IN} {english=airports}{universalDependency=1$NMOD}{slot=O}{posTag=NNS}
+{english=names}{metaMorphemes=name}{universalDependency=0$ROOT}{slot=O}{posTag=NNS} {english=of}{metaMorphemes=of}{universalDependency=3$CASE}{slot=O}{posTag=IN} {english=airports}{metaMorphemes=airport}{universalDependency=1$NMOD}{slot=O}{posTag=NNS}

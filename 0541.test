@@ -1,1 +1,1 @@
-{english=the}{slot=O} {english=flight}{slot=O} {english=will}{slot=O} {english=originate}{slot=O} {english=from}{slot=O} {english=boston}{slot=B-fromloc.city_name}
+{english=the}{metaMorphemes=the}{slot=O} {english=flight}{metaMorphemes=flight}{slot=O} {english=will}{metaMorphemes=will}{slot=O} {english=originate}{metaMorphemes=originate}{slot=O} {english=from}{metaMorphemes=from}{slot=O} {english=boston}{metaMorphemes=boston}{slot=B-fromloc.city_name}

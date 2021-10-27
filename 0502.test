@@ -1,1 +1,1 @@
-{english=baltimore}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=philadelphia}{slot=B-toloc.city_name} {english=wednesday}{slot=B-depart_date.day_name}
+{english=baltimore}{metaMorphemes=baltimore}{slot=B-fromloc.city_name} {english=to}{metaMorphemes=to}{slot=O} {english=philadelphia}{metaMorphemes=philadelphia}{slot=B-toloc.city_name} {english=wednesday}{metaMorphemes=wednesday}{slot=B-depart_date.day_name}

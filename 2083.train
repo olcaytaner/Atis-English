@@ -1,1 +1,1 @@
-{english=boston}{universalDependency=3$COMPOUND}{slot=B-city_name}{posTag=NNP} {english=ground}{universalDependency=3$COMPOUND}{slot=O}{posTag=NN} {english=transportation}{universalDependency=0$ROOT}{slot=O}{posTag=NNP}
+{english=boston}{metaMorphemes=boston}{universalDependency=3$COMPOUND}{slot=B-city_name}{posTag=NNP} {english=ground}{metaMorphemes=ground}{universalDependency=3$COMPOUND}{slot=O}{posTag=NN} {english=transportation}{metaMorphemes=transportation}{universalDependency=0$ROOT}{slot=O}{posTag=NNP}

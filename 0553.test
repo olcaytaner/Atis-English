@@ -1,1 +1,1 @@
-{english=now}{slot=O} {english=get}{slot=O} {english=me}{slot=O} {english=from}{slot=O} {english=pittsburgh}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=denver}{slot=B-toloc.city_name}
+{english=now}{metaMorphemes=now}{slot=O} {english=get}{metaMorphemes=get}{slot=O} {english=me}{metaMorphemes=I}{slot=O} {english=from}{metaMorphemes=from}{slot=O} {english=pittsburgh}{metaMorphemes=pittsburgh}{slot=B-fromloc.city_name} {english=to}{metaMorphemes=to}{slot=O} {english=denver}{metaMorphemes=denver}{slot=B-toloc.city_name}

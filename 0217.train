@@ -1,1 +1,1 @@
-{english=list}{universalDependency=0$ROOT}{slot=O}{posTag=NN} {english=la}{universalDependency=1$OBJ}{slot=B-city_name}{posTag=NNP}
+{english=list}{metaMorphemes=list}{universalDependency=0$ROOT}{slot=O}{posTag=NN} {english=la}{metaMorphemes=la}{universalDependency=1$OBJ}{slot=B-city_name}{posTag=NNP}

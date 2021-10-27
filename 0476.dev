@@ -1,1 +1,1 @@
-{english=what}{slot=O} {english=delta}{slot=B-airline_name} {english=leaves}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=for}{slot=O} {english=atlanta}{slot=B-toloc.city_name}
+{english=what}{metaMorphemes=what}{slot=O} {english=delta}{metaMorphemes=delta}{slot=B-airline_name} {english=leaves}{metaMorphemes=leaf}{slot=O} {english=boston}{metaMorphemes=boston}{slot=B-fromloc.city_name} {english=for}{metaMorphemes=for}{slot=O} {english=atlanta}{metaMorphemes=atlanta}{slot=B-toloc.city_name}

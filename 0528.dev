@@ -1,1 +1,1 @@
-{english=from}{slot=O} {english=pittsburgh}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=baltimore}{slot=B-toloc.city_name}
+{english=from}{metaMorphemes=from}{slot=O} {english=pittsburgh}{metaMorphemes=pittsburgh}{slot=B-fromloc.city_name} {english=to}{metaMorphemes=to}{slot=O} {english=baltimore}{metaMorphemes=baltimore}{slot=B-toloc.city_name}

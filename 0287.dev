@@ -1,1 +1,1 @@
-{english=does}{slot=O}{posTag=AUX:VBZ} {english=midwest}{slot=B-airline_name}{posTag=NNP} {english=express}{slot=O}{posTag=VBP} {english=serve}{slot=O}{posTag=VB} {english=baltimore}{slot=B-city_name}{posTag=NNP}
+{english=does}{metaMorphemes=do}{slot=O}{posTag=AUX:VBZ} {english=midwest}{metaMorphemes=midwest}{slot=B-airline_name}{posTag=NNP} {english=express}{metaMorphemes=express}{slot=O}{posTag=VBP} {english=serve}{metaMorphemes=serve}{slot=O}{posTag=VB} {english=baltimore}{metaMorphemes=baltimore}{slot=B-city_name}{posTag=NNP}

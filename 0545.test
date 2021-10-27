@@ -1,1 +1,1 @@
-{english=i'd}{slot=O} {english=like}{slot=O} {english=information}{slot=O} {english=on}{slot=O} {english=boston}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=washington}{slot=B-toloc.city_name}
+{english=i'd}{metaMorphemes=i'd}{slot=O} {english=like}{metaMorphemes=like}{slot=O} {english=information}{metaMorphemes=information}{slot=O} {english=on}{metaMorphemes=on}{slot=O} {english=boston}{metaMorphemes=boston}{slot=B-fromloc.city_name} {english=to}{metaMorphemes=to}{slot=O} {english=washington}{metaMorphemes=washington}{slot=B-toloc.city_name}

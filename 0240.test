@@ -1,1 +1,1 @@
-{english=define}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=airline}{universalDependency=1$NSUBJ}{slot=O}{posTag=NN} {english=us}{universalDependency=2$FLAT}{slot=B-airline_code}{posTag=PRP}
+{english=define}{metaMorphemes=define}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=airline}{metaMorphemes=airline}{universalDependency=1$NSUBJ}{slot=O}{posTag=NN} {english=us}{metaMorphemes=us}{universalDependency=2$FLAT}{slot=B-airline_code}{posTag=PRP}

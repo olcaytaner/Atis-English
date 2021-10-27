@@ -1,1 +1,1 @@
-{english=one}{universalDependency=2$NUMMOD}{slot=B-round_trip}{posTag=CD} {english=way}{universalDependency=0$ROOT}{slot=I-round_trip}{posTag=NN}
+{english=one}{metaMorphemes=one}{universalDependency=2$NUMMOD}{slot=B-round_trip}{posTag=CD} {english=way}{metaMorphemes=way}{universalDependency=0$ROOT}{slot=I-round_trip}{posTag=NN}

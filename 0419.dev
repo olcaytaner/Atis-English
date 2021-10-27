@@ -1,1 +1,1 @@
-{english=where}{slot=O} {english=does}{slot=O} {english=canadian}{slot=B-airline_name} {english=airlines}{slot=I-airline_name} {english=international}{slot=I-airline_name} {english=fly}{slot=O} {english=to}{slot=O}
+{english=where}{metaMorphemes=where}{slot=O} {english=does}{metaMorphemes=do}{slot=O} {english=canadian}{metaMorphemes=canadian}{slot=B-airline_name} {english=airlines}{metaMorphemes=airline}{slot=I-airline_name} {english=international}{metaMorphemes=international}{slot=I-airline_name} {english=fly}{metaMorphemes=fly}{slot=O} {english=to}{metaMorphemes=to}{slot=O}

@@ -1,1 +1,1 @@
-{english=only}{slot=O} {english=show}{slot=O} {english=continental}{slot=B-airline_name} {english=flights}{slot=O}
+{english=only}{metaMorphemes=only}{slot=O} {english=show}{metaMorphemes=show}{slot=O} {english=continental}{metaMorphemes=continental}{slot=B-airline_name} {english=flights}{metaMorphemes=flight}{slot=O}

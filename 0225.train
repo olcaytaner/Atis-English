@@ -1,1 +1,1 @@
-{english=where}{universalDependency=0$ROOT}{slot=O}{posTag=WRB} {english=is}{universalDependency=1$COP}{slot=O}{posTag=AUX:VBZ} {english=mco}{universalDependency=1$NSUBJ}{slot=B-airport_code}{posTag=NNP}
+{english=where}{metaMorphemes=where}{universalDependency=0$ROOT}{slot=O}{posTag=WRB} {english=is}{metaMorphemes=be}{universalDependency=1$COP}{slot=O}{posTag=AUX:VBZ} {english=mco}{metaMorphemes=mco}{universalDependency=1$NSUBJ}{slot=B-airport_code}{posTag=NNP}

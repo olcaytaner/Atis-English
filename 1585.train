@@ -1,1 +1,1 @@
-{english=what}{universalDependency=0$ROOT}{slot=O}{posTag=WP} {english=is}{universalDependency=1$COP}{slot=O}{posTag=AUX:VBZ} {english=ua}{universalDependency=1$NSUBJ}{slot=B-airline_code}{posTag=NN}
+{english=what}{metaMorphemes=what}{universalDependency=0$ROOT}{slot=O}{posTag=WP} {english=is}{metaMorphemes=be}{universalDependency=1$COP}{slot=O}{posTag=AUX:VBZ} {english=ua}{metaMorphemes=ua}{universalDependency=1$NSUBJ}{slot=B-airline_code}{posTag=NN}

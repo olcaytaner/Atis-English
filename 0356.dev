@@ -1,1 +1,1 @@
-{english=cheapest}{slot=B-cost_relative} {english=airfare}{slot=O} {english=from}{slot=O} {english=orlando}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=tacoma}{slot=B-toloc.city_name}
+{english=cheapest}{metaMorphemes=cheap}{slot=B-cost_relative} {english=airfare}{metaMorphemes=airfare}{slot=O} {english=from}{metaMorphemes=from}{slot=O} {english=orlando}{metaMorphemes=orlando}{slot=B-fromloc.city_name} {english=to}{metaMorphemes=to}{slot=O} {english=tacoma}{metaMorphemes=tacoma}{slot=B-toloc.city_name}

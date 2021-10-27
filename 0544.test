@@ -1,1 +1,1 @@
-{english=flights}{slot=O} {english=from}{slot=O} {english=columbus}{slot=B-fromloc.city_name} {english=to}{slot=O} {english=milwaukee}{slot=B-toloc.city_name}
+{english=flights}{metaMorphemes=flight}{slot=O} {english=from}{metaMorphemes=from}{slot=O} {english=columbus}{metaMorphemes=columbus}{slot=B-fromloc.city_name} {english=to}{metaMorphemes=to}{slot=O} {english=milwaukee}{metaMorphemes=milwaukee}{slot=B-toloc.city_name}

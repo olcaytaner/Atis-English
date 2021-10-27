@@ -1,1 +1,1 @@
-{english=ground}{slot=O}{posTag=NN} {english=transportation}{slot=O}{posTag=NN} {english=dallas}{slot=B-city_name}{posTag=NNP}
+{english=ground}{metaMorphemes=ground}{slot=O}{posTag=NN} {english=transportation}{metaMorphemes=transportation}{slot=O}{posTag=NN} {english=dallas}{metaMorphemes=dallas}{slot=B-city_name}{posTag=NNP}
