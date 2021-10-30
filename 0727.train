@@ -1,1 +1,1 @@
-{english=train}{metaMorphemes=train}{universalDependency=0$ROOT}{slot=B-transport_type}{posTag=NNP} {english=to}{metaMorphemes=to}{universalDependency=3$CASE}{slot=O}{posTag=TO} {english=newark}{metaMorphemes=newark}{universalDependency=1$NMOD}{slot=B-city_name}{posTag=NNP}
+{english=train}{metaMorphemes=train}{universalDependency=0$ROOT}{slot=B-transport_type}{posTag=NNP} {english=to}{metaMorphemes=to}{universalDependency=3$CASE}{slot=O}{posTag=IN} {english=newark}{metaMorphemes=newark}{universalDependency=1$NMOD}{slot=B-city_name}{posTag=NNP}

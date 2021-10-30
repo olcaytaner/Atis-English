@@ -1,1 +1,1 @@
-{english=oakland}{metaMorphemes=oakland}{universalDependency=0$ROOT}{slot=B-fromloc.city_name}{posTag=NNP} {english=to}{metaMorphemes=to}{universalDependency=3$CASE}{slot=O}{posTag=TO} {english=denver}{metaMorphemes=denver}{universalDependency=1$NMOD}{slot=B-toloc.city_name}{posTag=NNP}
+{english=oakland}{metaMorphemes=oakland}{universalDependency=0$ROOT}{slot=B-fromloc.city_name}{posTag=NNP} {english=to}{metaMorphemes=to}{universalDependency=3$CASE}{slot=O}{posTag=IN} {english=denver}{metaMorphemes=denver}{universalDependency=1$NMOD}{slot=B-toloc.city_name}{posTag=NNP}
