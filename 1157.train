@@ -1,1 +1,1 @@
-{english=us}{metaMorphemes=us}{universalDependency=0$ROOT}{slot=B-airline_code}{posTag=PRP} {english=201}{metaMorphemes=201}{universalDependency=1$NUMMOD}{slot=B-flight_number}{posTag=CD}
+{english=us}{metaMorphemes=us}{universalDependency=0$ROOT}{slot=B-airline_code}{posTag=NNP} {english=201}{metaMorphemes=201}{universalDependency=1$NUMMOD}{slot=B-flight_number}{posTag=CD}
