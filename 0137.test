@@ -1,1 +1,1 @@
-{english=ground}{metaMorphemes=ground}{universalDependency=0$ROOT}{slot=O}{posTag=NN} {english=san}{metaMorphemes=san}{universalDependency=1$NMOD}{slot=B-city_name}{posTag=NNP} {english=francisco}{metaMorphemes=francisco}{universalDependency=2$FLAT}{slot=I-city_name}{posTag=NNP}
+{english=ground}{metaMorphemes=ground}{universalDependency=0$ROOT}{slot=O}{posTag=NN} {english=san}{metaMorphemes=San}{universalDependency=1$NMOD}{slot=B-city_name}{posTag=NNP} {english=francisco}{metaMorphemes=Francisco}{universalDependency=2$FLAT}{slot=I-city_name}{posTag=NNP}

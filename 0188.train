@@ -1,1 +1,1 @@
-{english=explain}{metaMorphemes=explain}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=restriction}{metaMorphemes=restriction}{universalDependency=3$COMPOUND}{slot=O}{posTag=NN} {english=ap80}{metaMorphemes=ap80}{universalDependency=1$OBJ}{slot=B-restriction_code}{posTag=NNP}
+{english=explain}{metaMorphemes=explain}{universalDependency=0$ROOT}{slot=O}{posTag=VB} {english=restriction}{metaMorphemes=restriction}{universalDependency=3$COMPOUND}{slot=O}{posTag=NN} {english=ap80}{metaMorphemes=Ap80}{universalDependency=1$OBJ}{slot=B-restriction_code}{posTag=NNP}

@@ -1,1 +1,1 @@
-{english=code}{metaMorphemes=code}{universalDependency=2$COMPOUND}{slot=O}{posTag=NN} {english=ff}{metaMorphemes=ff}{universalDependency=0$ROOT}{slot=B-airline_code}{posTag=NNP}
+{english=code}{metaMorphemes=code}{universalDependency=2$COMPOUND}{slot=O}{posTag=NN} {english=ff}{metaMorphemes=FF}{universalDependency=0$ROOT}{slot=B-airline_code}{posTag=NNP}

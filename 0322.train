@@ -1,1 +1,1 @@
-{english=what}{metaMorphemes=what}{universalDependency=0$ROOT}{slot=O}{posTag=WP} {english=is}{metaMorphemes=be}{universalDependency=1$COP}{slot=O}{posTag=AUX:VBZ} {english=bna}{metaMorphemes=bna}{universalDependency=1$NSUBJ}{slot=B-airport_code}{posTag=NNP}
+{english=what}{metaMorphemes=what}{universalDependency=0$ROOT}{slot=O}{posTag=WP} {english=is}{metaMorphemes=be}{universalDependency=1$COP}{slot=O}{posTag=AUX:VBZ} {english=bna}{metaMorphemes=Bna}{universalDependency=1$NSUBJ}{slot=B-airport_code}{posTag=NNP}
